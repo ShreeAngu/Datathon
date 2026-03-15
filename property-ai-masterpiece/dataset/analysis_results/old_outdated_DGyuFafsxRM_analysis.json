@@ -1,0 +1,48 @@
+{
+  "image_path": "D:\\Datathon\\property-ai-masterpiece\\dataset\\real\\old_outdated\\old_outdated_DGyuFafsxRM.jpg",
+  "spatial": {
+    "room_type": "living room",
+    "room_type_confidence": 0.105,
+    "style": "farmhouse",
+    "spaciousness_score": 49.0,
+    "clutter_score": 20.0,
+    "lighting_quality": 61.3,
+    "furniture_count": 8,
+    "object_count": 10
+  },
+  "authenticity": {
+    "trust_score": 38.4,
+    "is_ai_generated": true,
+    "detection_confidence": 0.232,
+    "exif_valid": false,
+    "lighting_consistent": false,
+    "noise_variance": 201.35,
+    "artifacts_detected": [
+      "no_exif",
+      "smooth_colour_gradient"
+    ],
+    "ground_truth_label": "real"
+  },
+  "accessibility": {
+    "accessibility_score": 70.0,
+    "has_grab_bar": false,
+    "has_stairs": false,
+    "estimated_door_width_cm": 50,
+    "is_wheelchair_accessible": false,
+    "features_detected": [
+      "step_free"
+    ]
+  },
+  "quality": {
+    "overall_score": 49.4,
+    "lighting_score": 61.3,
+    "composition_score": 56.2,
+    "sharpness_score": 20.2,
+    "resolution_score": 17.2,
+    "trust_component": 11.5,
+    "recommendations": [
+      "Increase image sharpness/focus (+3 pts)"
+    ]
+  },
+  "processing_time_s": 1.32
+}

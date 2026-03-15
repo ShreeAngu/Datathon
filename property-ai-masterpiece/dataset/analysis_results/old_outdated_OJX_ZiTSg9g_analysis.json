@@ -1,0 +1,46 @@
+{
+  "image_path": "D:\\Datathon\\property-ai-masterpiece\\dataset\\real\\old_outdated\\old_outdated_OJX_ZiTSg9g.jpg",
+  "spatial": {
+    "room_type": "bedroom",
+    "room_type_confidence": 0.1025,
+    "style": "farmhouse",
+    "spaciousness_score": 41.0,
+    "clutter_score": 4.0,
+    "lighting_quality": 65.9,
+    "furniture_count": 1,
+    "object_count": 2
+  },
+  "authenticity": {
+    "trust_score": 67.1,
+    "is_ai_generated": false,
+    "detection_confidence": 0.342,
+    "exif_valid": false,
+    "lighting_consistent": false,
+    "noise_variance": 956.15,
+    "artifacts_detected": [
+      "no_exif",
+      "smooth_colour_gradient"
+    ],
+    "ground_truth_label": "real"
+  },
+  "accessibility": {
+    "accessibility_score": 70.0,
+    "has_grab_bar": false,
+    "has_stairs": false,
+    "estimated_door_width_cm": 85,
+    "is_wheelchair_accessible": true,
+    "features_detected": [
+      "step_free"
+    ]
+  },
+  "quality": {
+    "overall_score": 68.9,
+    "lighting_score": 65.9,
+    "composition_score": 88.5,
+    "sharpness_score": 96.7,
+    "resolution_score": 15.5,
+    "trust_component": 20.1,
+    "recommendations": []
+  },
+  "processing_time_s": 1.41
+}

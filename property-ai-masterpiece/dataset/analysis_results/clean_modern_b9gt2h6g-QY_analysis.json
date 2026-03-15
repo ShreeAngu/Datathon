@@ -1,0 +1,48 @@
+{
+  "image_path": "D:\\Datathon\\property-ai-masterpiece\\dataset\\real\\clean_modern\\clean_modern_b9gt2h6g-QY.jpg",
+  "spatial": {
+    "room_type": "kitchen",
+    "room_type_confidence": 0.105,
+    "style": "luxury contemporary",
+    "spaciousness_score": 31.6,
+    "clutter_score": 16.0,
+    "lighting_quality": 76.2,
+    "furniture_count": 8,
+    "object_count": 8
+  },
+  "authenticity": {
+    "trust_score": 66.1,
+    "is_ai_generated": false,
+    "detection_confidence": 0.322,
+    "exif_valid": false,
+    "lighting_consistent": false,
+    "noise_variance": 556.56,
+    "artifacts_detected": [
+      "no_exif",
+      "smooth_colour_gradient"
+    ],
+    "ground_truth_label": "real"
+  },
+  "accessibility": {
+    "accessibility_score": 70.0,
+    "has_grab_bar": false,
+    "has_stairs": false,
+    "estimated_door_width_cm": 85,
+    "is_wheelchair_accessible": true,
+    "features_detected": [
+      "step_free"
+    ]
+  },
+  "quality": {
+    "overall_score": 63.9,
+    "lighting_score": 76.2,
+    "composition_score": 81.6,
+    "sharpness_score": 56.6,
+    "resolution_score": 10.0,
+    "trust_component": 19.8,
+    "recommendations": [
+      "Wider angle would improve spaciousness perception (+2 pts)"
+    ]
+  },
+  "processing_time_s": 1.95
+}

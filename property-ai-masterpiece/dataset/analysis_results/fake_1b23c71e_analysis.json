@@ -1,0 +1,46 @@
+{
+  "image_path": "D:\\Datathon\\property-ai-masterpiece\\dataset\\fake\\fake_1b23c71e.jpg",
+  "spatial": {
+    "room_type": "living room",
+    "room_type_confidence": 0.1037,
+    "style": "luxury contemporary",
+    "spaciousness_score": 42.6,
+    "clutter_score": 36.0,
+    "lighting_quality": 78.6,
+    "furniture_count": 7,
+    "object_count": 10
+  },
+  "authenticity": {
+    "trust_score": 66.2,
+    "is_ai_generated": false,
+    "detection_confidence": 0.324,
+    "exif_valid": false,
+    "lighting_consistent": false,
+    "noise_variance": 813.88,
+    "artifacts_detected": [
+      "no_exif",
+      "smooth_colour_gradient"
+    ],
+    "ground_truth_label": "fake"
+  },
+  "accessibility": {
+    "accessibility_score": 70.0,
+    "has_grab_bar": false,
+    "has_stairs": false,
+    "estimated_door_width_cm": 78,
+    "is_wheelchair_accessible": false,
+    "features_detected": [
+      "step_free"
+    ]
+  },
+  "quality": {
+    "overall_score": 66.8,
+    "lighting_score": 78.6,
+    "composition_score": 100.0,
+    "sharpness_score": 81.5,
+    "resolution_score": 8.5,
+    "trust_component": 19.9,
+    "recommendations": []
+  },
+  "processing_time_s": 1.14
+}

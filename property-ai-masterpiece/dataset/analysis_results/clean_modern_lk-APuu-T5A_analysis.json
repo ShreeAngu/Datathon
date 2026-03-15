@@ -1,0 +1,46 @@
+{
+  "image_path": "D:\\Datathon\\property-ai-masterpiece\\dataset\\real\\clean_modern\\clean_modern_lk-APuu-T5A.jpg",
+  "spatial": {
+    "room_type": "kitchen",
+    "room_type_confidence": 0.1035,
+    "style": "luxury contemporary",
+    "spaciousness_score": 44.7,
+    "clutter_score": 38.0,
+    "lighting_quality": 78.3,
+    "furniture_count": 16,
+    "object_count": 19
+  },
+  "authenticity": {
+    "trust_score": 61.0,
+    "is_ai_generated": false,
+    "detection_confidence": 0.22,
+    "exif_valid": false,
+    "lighting_consistent": false,
+    "noise_variance": 805.46,
+    "artifacts_detected": [
+      "no_exif",
+      "smooth_colour_gradient"
+    ],
+    "ground_truth_label": "real"
+  },
+  "accessibility": {
+    "accessibility_score": 70.0,
+    "has_grab_bar": false,
+    "has_stairs": false,
+    "estimated_door_width_cm": 32,
+    "is_wheelchair_accessible": false,
+    "features_detected": [
+      "step_free"
+    ]
+  },
+  "quality": {
+    "overall_score": 64.3,
+    "lighting_score": 78.3,
+    "composition_score": 76.9,
+    "sharpness_score": 80.7,
+    "resolution_score": 15.6,
+    "trust_component": 18.3,
+    "recommendations": []
+  },
+  "processing_time_s": 1.45
+}

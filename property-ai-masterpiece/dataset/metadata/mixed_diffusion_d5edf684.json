@@ -1,0 +1,18 @@
+{
+  "filename": "mixed_diffusion_d5edf684.jpg",
+  "category": "clean_modern",
+  "type": "fake",
+  "source": "laion-art",
+  "generator_type": "mixed-diffusion",
+  "detection_difficulty": "hard",
+  "artifact_type": "subtle-noise",
+  "lighting_condition": "bright",
+  "clutter_level": "low",
+  "angle_type": "standard",
+  "accessibility_features": false,
+  "width": 1000,
+  "height": 1498,
+  "collected_at": "2026-03-14T14:19:03.640502",
+  "caption": "luxury greenhouse wedding atlanta wedding photographer 2400 on the river-6.jpg",
+  "aesthetic_score": 8.048053741455078
+}

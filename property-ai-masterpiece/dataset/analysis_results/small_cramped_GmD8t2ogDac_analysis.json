@@ -1,0 +1,49 @@
+{
+  "image_path": "D:\\Datathon\\property-ai-masterpiece\\dataset\\real\\small_cramped\\small_cramped_GmD8t2ogDac.jpg",
+  "spatial": {
+    "room_type": "living room",
+    "room_type_confidence": 0.1028,
+    "style": "luxury contemporary",
+    "spaciousness_score": 29.1,
+    "clutter_score": 10.0,
+    "lighting_quality": 81.8,
+    "furniture_count": 4,
+    "object_count": 5
+  },
+  "authenticity": {
+    "trust_score": 52.7,
+    "is_ai_generated": false,
+    "detection_confidence": 0.054,
+    "exif_valid": false,
+    "lighting_consistent": false,
+    "noise_variance": 315.42,
+    "artifacts_detected": [
+      "no_exif",
+      "smooth_colour_gradient"
+    ],
+    "ground_truth_label": "real"
+  },
+  "accessibility": {
+    "accessibility_score": 70.0,
+    "has_grab_bar": false,
+    "has_stairs": false,
+    "estimated_door_width_cm": 58,
+    "is_wheelchair_accessible": false,
+    "features_detected": [
+      "step_free"
+    ]
+  },
+  "quality": {
+    "overall_score": 58.4,
+    "lighting_score": 81.8,
+    "composition_score": 68.1,
+    "sharpness_score": 32.0,
+    "resolution_score": 14.1,
+    "trust_component": 15.8,
+    "recommendations": [
+      "Increase image sharpness/focus (+3 pts)",
+      "Wider angle would improve spaciousness perception (+2 pts)"
+    ]
+  },
+  "processing_time_s": 1.32
+}

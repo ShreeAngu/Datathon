@@ -1,0 +1,48 @@
+{
+  "image_path": "D:\\Datathon\\property-ai-masterpiece\\dataset\\real\\architectural\\architectural_wgh0nAhMnsU.jpg",
+  "spatial": {
+    "room_type": "staircase",
+    "room_type_confidence": 0.1034,
+    "style": "luxury contemporary",
+    "spaciousness_score": 48.5,
+    "clutter_score": 2.0,
+    "lighting_quality": 59.3,
+    "furniture_count": 0,
+    "object_count": 1
+  },
+  "authenticity": {
+    "trust_score": 66.3,
+    "is_ai_generated": false,
+    "detection_confidence": 0.326,
+    "exif_valid": false,
+    "lighting_consistent": false,
+    "noise_variance": 821.09,
+    "artifacts_detected": [
+      "no_exif",
+      "smooth_colour_gradient"
+    ],
+    "ground_truth_label": "real"
+  },
+  "accessibility": {
+    "accessibility_score": 70.0,
+    "has_grab_bar": false,
+    "has_stairs": false,
+    "estimated_door_width_cm": 85,
+    "is_wheelchair_accessible": true,
+    "features_detected": [
+      "step_free"
+    ]
+  },
+  "quality": {
+    "overall_score": 67.5,
+    "lighting_score": 59.3,
+    "composition_score": 100.0,
+    "sharpness_score": 83.2,
+    "resolution_score": 15.6,
+    "trust_component": 19.9,
+    "recommendations": [
+      "Improve natural lighting (+5 pts)"
+    ]
+  },
+  "processing_time_s": 1.2
+}

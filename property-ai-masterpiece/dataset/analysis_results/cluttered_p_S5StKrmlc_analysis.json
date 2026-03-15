@@ -1,0 +1,50 @@
+{
+  "image_path": "D:\\Datathon\\property-ai-masterpiece\\dataset\\real\\cluttered\\cluttered_p_S5StKrmlc.jpg",
+  "spatial": {
+    "room_type": "bathroom",
+    "room_type_confidence": 0.1022,
+    "style": "luxury contemporary",
+    "spaciousness_score": 62.0,
+    "clutter_score": 6.0,
+    "lighting_quality": 59.6,
+    "furniture_count": 0,
+    "object_count": 3
+  },
+  "authenticity": {
+    "trust_score": 11.2,
+    "is_ai_generated": true,
+    "detection_confidence": 0.776,
+    "exif_valid": false,
+    "lighting_consistent": false,
+    "noise_variance": 11.1,
+    "artifacts_detected": [
+      "no_exif",
+      "smooth_colour_gradient",
+      "low_noise_variance"
+    ],
+    "ground_truth_label": "real"
+  },
+  "accessibility": {
+    "accessibility_score": 70.0,
+    "has_grab_bar": false,
+    "has_stairs": false,
+    "estimated_door_width_cm": 85,
+    "is_wheelchair_accessible": true,
+    "features_detected": [
+      "step_free"
+    ]
+  },
+  "quality": {
+    "overall_score": 41.1,
+    "lighting_score": 59.6,
+    "composition_score": 49.4,
+    "sharpness_score": 1.1,
+    "resolution_score": 13.1,
+    "trust_component": 3.4,
+    "recommendations": [
+      "Improve natural lighting (+5 pts)",
+      "Increase image sharpness/focus (+3 pts)"
+    ]
+  },
+  "processing_time_s": 1.51
+}

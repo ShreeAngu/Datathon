@@ -1,0 +1,46 @@
+{
+  "image_path": "D:\\Datathon\\property-ai-masterpiece\\dataset\\fake\\mixed_diffusion_3f57ecd5.jpg",
+  "spatial": {
+    "room_type": "bedroom",
+    "room_type_confidence": 0.1031,
+    "style": "luxury contemporary",
+    "spaciousness_score": 43.6,
+    "clutter_score": 34.0,
+    "lighting_quality": 76.8,
+    "furniture_count": 2,
+    "object_count": 5
+  },
+  "authenticity": {
+    "trust_score": 65.7,
+    "is_ai_generated": false,
+    "detection_confidence": 0.314,
+    "exif_valid": false,
+    "lighting_consistent": false,
+    "noise_variance": 676.21,
+    "artifacts_detected": [
+      "no_exif",
+      "smooth_colour_gradient"
+    ],
+    "ground_truth_label": "fake"
+  },
+  "accessibility": {
+    "accessibility_score": 70.0,
+    "has_grab_bar": false,
+    "has_stairs": false,
+    "estimated_door_width_cm": 20,
+    "is_wheelchair_accessible": false,
+    "features_detected": [
+      "step_free"
+    ]
+  },
+  "quality": {
+    "overall_score": 63.8,
+    "lighting_score": 76.8,
+    "composition_score": 77.5,
+    "sharpness_score": 67.8,
+    "resolution_score": 2.7,
+    "trust_component": 19.7,
+    "recommendations": []
+  },
+  "processing_time_s": 0.75
+}

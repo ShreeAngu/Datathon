@@ -1,0 +1,8 @@
+{
+  "generated_at": "2026-03-14T15:13:32.727898",
+  "total_images": 570,
+  "total_processed": 570,
+  "success_rate": 100.0,
+  "pinecone_index": "{'_response_info': {'raw_headers': {'connection': 'keep-alive',\n                                    'content-length': '183',\n                                    'content-type': 'application/json',\n                                    'date': 'Sat, 14 Mar 2026 09:43:32 GMT',\n                                    'grpc-status': '0',\n                                    'server': 'envoy',\n                                    'x-envoy-upstream-service-time': '3',\n                                    'x-pinecone-request-latency-ms': '3',\n                                    'x-pinecone-response-duration-ms': '5'}},\n 'dimension': 512,\n 'index_fullness': 0.0,\n 'memoryFullness': 0.0,\n 'metric': 'cosine',\n 'namespaces': {'__default__': {'vector_count': 90}},\n 'storageFullness': 0.0,\n 'total_vector_count': 90,\n 'vector_type': 'dense'}",
+  "results_dir": "D:\\Datathon\\property-ai-masterpiece\\dataset\\analysis_results"
+}

@@ -1,0 +1,46 @@
+{
+  "image_path": "D:\\Datathon\\property-ai-masterpiece\\dataset\\real\\small_cramped\\small_cramped_imwD-UXqcvg.jpg",
+  "spatial": {
+    "room_type": "living room",
+    "room_type_confidence": 0.1017,
+    "style": "modern minimalist",
+    "spaciousness_score": 46.7,
+    "clutter_score": 2.0,
+    "lighting_quality": 79.5,
+    "furniture_count": 1,
+    "object_count": 1
+  },
+  "authenticity": {
+    "trust_score": 66.3,
+    "is_ai_generated": false,
+    "detection_confidence": 0.326,
+    "exif_valid": false,
+    "lighting_consistent": false,
+    "noise_variance": 1357.67,
+    "artifacts_detected": [
+      "no_exif",
+      "smooth_colour_gradient"
+    ],
+    "ground_truth_label": "real"
+  },
+  "accessibility": {
+    "accessibility_score": 70.0,
+    "has_grab_bar": false,
+    "has_stairs": false,
+    "estimated_door_width_cm": 85,
+    "is_wheelchair_accessible": true,
+    "features_detected": [
+      "step_free"
+    ]
+  },
+  "quality": {
+    "overall_score": 70.7,
+    "lighting_score": 79.5,
+    "composition_score": 52.1,
+    "sharpness_score": 100.0,
+    "resolution_score": 17.5,
+    "trust_component": 19.9,
+    "recommendations": []
+  },
+  "processing_time_s": 1.13
+}

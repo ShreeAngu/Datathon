@@ -1,0 +1,49 @@
+{
+  "image_path": "D:\\Datathon\\property-ai-masterpiece\\dataset\\real\\old_outdated\\old_outdated_ZtIM1FC1yoo.jpg",
+  "spatial": {
+    "room_type": "hallway",
+    "room_type_confidence": 0.1023,
+    "style": "industrial",
+    "spaciousness_score": 57.9,
+    "clutter_score": 0.0,
+    "lighting_quality": 53.1,
+    "furniture_count": 0,
+    "object_count": 0
+  },
+  "authenticity": {
+    "trust_score": 30.1,
+    "is_ai_generated": true,
+    "detection_confidence": 0.398,
+    "exif_valid": false,
+    "lighting_consistent": false,
+    "noise_variance": 206.79,
+    "artifacts_detected": [
+      "no_exif",
+      "smooth_colour_gradient"
+    ],
+    "ground_truth_label": "real"
+  },
+  "accessibility": {
+    "accessibility_score": 70.0,
+    "has_grab_bar": false,
+    "has_stairs": false,
+    "estimated_door_width_cm": 85,
+    "is_wheelchair_accessible": true,
+    "features_detected": [
+      "step_free"
+    ]
+  },
+  "quality": {
+    "overall_score": 47.6,
+    "lighting_score": 53.1,
+    "composition_score": 45.8,
+    "sharpness_score": 20.9,
+    "resolution_score": 15.6,
+    "trust_component": 9.0,
+    "recommendations": [
+      "Improve natural lighting (+5 pts)",
+      "Increase image sharpness/focus (+3 pts)"
+    ]
+  },
+  "processing_time_s": 1.22
+}

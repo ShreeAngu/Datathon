@@ -1,0 +1,50 @@
+{
+  "image_path": "D:\\Datathon\\property-ai-masterpiece\\dataset\\real\\poor_lighting\\poor_lighting_QdLsbL3LnNo.jpg",
+  "spatial": {
+    "room_type": "living room",
+    "room_type_confidence": 0.103,
+    "style": "cluttered messy",
+    "spaciousness_score": 37.4,
+    "clutter_score": 12.0,
+    "lighting_quality": 4.8,
+    "furniture_count": 1,
+    "object_count": 2
+  },
+  "authenticity": {
+    "trust_score": 28.7,
+    "is_ai_generated": true,
+    "detection_confidence": 0.426,
+    "exif_valid": false,
+    "lighting_consistent": false,
+    "noise_variance": 228.11,
+    "artifacts_detected": [
+      "no_exif",
+      "smooth_colour_gradient"
+    ],
+    "ground_truth_label": "real"
+  },
+  "accessibility": {
+    "accessibility_score": 70.0,
+    "has_grab_bar": false,
+    "has_stairs": false,
+    "estimated_door_width_cm": 10,
+    "is_wheelchair_accessible": false,
+    "features_detected": [
+      "step_free"
+    ]
+  },
+  "quality": {
+    "overall_score": 34.6,
+    "lighting_score": 4.8,
+    "composition_score": 45.1,
+    "sharpness_score": 22.8,
+    "resolution_score": 18.2,
+    "trust_component": 8.6,
+    "recommendations": [
+      "Improve natural lighting (+5 pts)",
+      "Increase image sharpness/focus (+3 pts)",
+      "Wider angle would improve spaciousness perception (+2 pts)"
+    ]
+  },
+  "processing_time_s": 1.14
+}

@@ -1,0 +1,47 @@
+{
+  "image_path": "D:\\Datathon\\property-ai-masterpiece\\dataset\\fake\\mixed_diffusion_4b877d62.jpg",
+  "spatial": {
+    "room_type": "hallway",
+    "room_type_confidence": 0.102,
+    "style": "traditional classic",
+    "spaciousness_score": 82.4,
+    "clutter_score": 6.0,
+    "lighting_quality": 69.9,
+    "furniture_count": 0,
+    "object_count": 3
+  },
+  "authenticity": {
+    "trust_score": 65.8,
+    "is_ai_generated": false,
+    "detection_confidence": 0.316,
+    "exif_valid": false,
+    "lighting_consistent": false,
+    "noise_variance": 721.38,
+    "artifacts_detected": [
+      "no_exif",
+      "smooth_colour_gradient"
+    ],
+    "ground_truth_label": "fake"
+  },
+  "accessibility": {
+    "accessibility_score": 85.0,
+    "has_grab_bar": false,
+    "has_stairs": false,
+    "estimated_door_width_cm": 193,
+    "is_wheelchair_accessible": true,
+    "features_detected": [
+      "wide_door",
+      "step_free"
+    ]
+  },
+  "quality": {
+    "overall_score": 71.4,
+    "lighting_score": 69.9,
+    "composition_score": 72.0,
+    "sharpness_score": 73.1,
+    "resolution_score": 12.8,
+    "trust_component": 19.7,
+    "recommendations": []
+  },
+  "processing_time_s": 0.96
+}

@@ -1,0 +1,46 @@
+{
+  "image_path": "D:\\Datathon\\property-ai-masterpiece\\dataset\\real\\old_outdated\\old_outdated_AxGLk0lmJFM.jpg",
+  "spatial": {
+    "room_type": "garage",
+    "room_type_confidence": 0.1015,
+    "style": "industrial",
+    "spaciousness_score": 45.7,
+    "clutter_score": 0.0,
+    "lighting_quality": 79.1,
+    "furniture_count": 0,
+    "object_count": 0
+  },
+  "authenticity": {
+    "trust_score": 69.0,
+    "is_ai_generated": false,
+    "detection_confidence": 0.38,
+    "exif_valid": false,
+    "lighting_consistent": false,
+    "noise_variance": 963.53,
+    "artifacts_detected": [
+      "no_exif",
+      "smooth_colour_gradient"
+    ],
+    "ground_truth_label": "real"
+  },
+  "accessibility": {
+    "accessibility_score": 70.0,
+    "has_grab_bar": false,
+    "has_stairs": false,
+    "estimated_door_width_cm": 85,
+    "is_wheelchair_accessible": true,
+    "features_detected": [
+      "step_free"
+    ]
+  },
+  "quality": {
+    "overall_score": 73.5,
+    "lighting_score": 79.1,
+    "composition_score": 100.0,
+    "sharpness_score": 96.7,
+    "resolution_score": 15.6,
+    "trust_component": 20.7,
+    "recommendations": []
+  },
+  "processing_time_s": 1.41
+}

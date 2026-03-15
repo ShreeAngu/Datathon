@@ -1,0 +1,49 @@
+{
+  "image_path": "D:\\Datathon\\property-ai-masterpiece\\dataset\\real\\accessibility\\accessibility_236RlTX3qsc.jpg",
+  "spatial": {
+    "room_type": "bathroom",
+    "room_type_confidence": 0.1044,
+    "style": "modern minimalist",
+    "spaciousness_score": 47.0,
+    "clutter_score": 0.0,
+    "lighting_quality": 64.9,
+    "furniture_count": 0,
+    "object_count": 0
+  },
+  "authenticity": {
+    "trust_score": 12.4,
+    "is_ai_generated": true,
+    "detection_confidence": 0.752,
+    "exif_valid": false,
+    "lighting_consistent": false,
+    "noise_variance": 40.23,
+    "artifacts_detected": [
+      "no_exif",
+      "smooth_colour_gradient",
+      "low_noise_variance"
+    ],
+    "ground_truth_label": "real"
+  },
+  "accessibility": {
+    "accessibility_score": 70.0,
+    "has_grab_bar": false,
+    "has_stairs": false,
+    "estimated_door_width_cm": 85,
+    "is_wheelchair_accessible": true,
+    "features_detected": [
+      "step_free"
+    ]
+  },
+  "quality": {
+    "overall_score": 42.2,
+    "lighting_score": 64.9,
+    "composition_score": 50.0,
+    "sharpness_score": 4.0,
+    "resolution_score": 17.5,
+    "trust_component": 3.7,
+    "recommendations": [
+      "Increase image sharpness/focus (+3 pts)"
+    ]
+  },
+  "processing_time_s": 16.23
+}

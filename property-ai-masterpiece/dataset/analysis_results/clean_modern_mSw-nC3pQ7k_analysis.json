@@ -1,0 +1,50 @@
+{
+  "image_path": "D:\\Datathon\\property-ai-masterpiece\\dataset\\real\\clean_modern\\clean_modern_mSw-nC3pQ7k.jpg",
+  "spatial": {
+    "room_type": "kitchen",
+    "room_type_confidence": 0.1041,
+    "style": "luxury contemporary",
+    "spaciousness_score": 30.4,
+    "clutter_score": 26.0,
+    "lighting_quality": 64.8,
+    "furniture_count": 5,
+    "object_count": 9
+  },
+  "authenticity": {
+    "trust_score": 45.4,
+    "is_ai_generated": false,
+    "detection_confidence": 0.092,
+    "exif_valid": false,
+    "lighting_consistent": false,
+    "noise_variance": 330.34,
+    "artifacts_detected": [
+      "no_exif",
+      "smooth_colour_gradient"
+    ],
+    "ground_truth_label": "real"
+  },
+  "accessibility": {
+    "accessibility_score": 85.0,
+    "has_grab_bar": true,
+    "has_stairs": false,
+    "estimated_door_width_cm": 85,
+    "is_wheelchair_accessible": true,
+    "features_detected": [
+      "grab_bar",
+      "step_free"
+    ]
+  },
+  "quality": {
+    "overall_score": 53.6,
+    "lighting_score": 64.8,
+    "composition_score": 77.0,
+    "sharpness_score": 33.3,
+    "resolution_score": 17.5,
+    "trust_component": 13.6,
+    "recommendations": [
+      "Increase image sharpness/focus (+3 pts)",
+      "Wider angle would improve spaciousness perception (+2 pts)"
+    ]
+  },
+  "processing_time_s": 1.25
+}

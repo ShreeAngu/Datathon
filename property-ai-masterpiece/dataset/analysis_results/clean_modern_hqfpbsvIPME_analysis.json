@@ -1,0 +1,46 @@
+{
+  "image_path": "D:\\Datathon\\property-ai-masterpiece\\dataset\\real\\clean_modern\\clean_modern_hqfpbsvIPME.jpg",
+  "spatial": {
+    "room_type": "dining room",
+    "room_type_confidence": 0.1075,
+    "style": "luxury contemporary",
+    "spaciousness_score": 42.5,
+    "clutter_score": 12.0,
+    "lighting_quality": 76.2,
+    "furniture_count": 6,
+    "object_count": 6
+  },
+  "authenticity": {
+    "trust_score": 66.0,
+    "is_ai_generated": false,
+    "detection_confidence": 0.32,
+    "exif_valid": false,
+    "lighting_consistent": false,
+    "noise_variance": 727.73,
+    "artifacts_detected": [
+      "no_exif",
+      "smooth_colour_gradient"
+    ],
+    "ground_truth_label": "real"
+  },
+  "accessibility": {
+    "accessibility_score": 70.0,
+    "has_grab_bar": false,
+    "has_stairs": false,
+    "estimated_door_width_cm": 68,
+    "is_wheelchair_accessible": false,
+    "features_detected": [
+      "step_free"
+    ]
+  },
+  "quality": {
+    "overall_score": 66.9,
+    "lighting_score": 76.2,
+    "composition_score": 77.5,
+    "sharpness_score": 72.8,
+    "resolution_score": 13.1,
+    "trust_component": 19.8,
+    "recommendations": []
+  },
+  "processing_time_s": 1.64
+}

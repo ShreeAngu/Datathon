@@ -1,0 +1,48 @@
+{
+  "generated_at": "2026-03-14T14:19:20.521491",
+  "totals": {
+    "real": 470,
+    "fake": 100,
+    "grand_total": 570,
+    "real_size_mb": 51.4,
+    "fake_size_mb": 16.0
+  },
+  "real_by_category": {
+    "clean_modern": {
+      "real": 100,
+      "target": 100
+    },
+    "cluttered": {
+      "real": 80,
+      "target": 80
+    },
+    "poor_lighting": {
+      "real": 60,
+      "target": 60
+    },
+    "odd_angles": {
+      "real": 50,
+      "target": 50
+    },
+    "old_outdated": {
+      "real": 50,
+      "target": 50
+    },
+    "small_cramped": {
+      "real": 50,
+      "target": 50
+    },
+    "accessibility": {
+      "real": 40,
+      "target": 40
+    },
+    "architectural": {
+      "real": 40,
+      "target": 40
+    }
+  },
+  "fake_by_generator": {
+    "unknown": 52,
+    "mixed-diffusion": 48
+  }
+}

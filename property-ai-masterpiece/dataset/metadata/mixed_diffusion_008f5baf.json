@@ -1,0 +1,18 @@
+{
+  "filename": "mixed_diffusion_008f5baf.jpg",
+  "category": "clean_modern",
+  "type": "fake",
+  "source": "laion-art",
+  "generator_type": "mixed-diffusion",
+  "detection_difficulty": "hard",
+  "artifact_type": "subtle-noise",
+  "lighting_condition": "bright",
+  "clutter_level": "low",
+  "angle_type": "standard",
+  "accessibility_features": false,
+  "width": 736,
+  "height": 1102,
+  "collected_at": "2026-03-14T14:19:19.422698",
+  "caption": "high quality pine hutch, pewter, redware u0026 crocks \u00b7 pie safechina cabinetstone ...",
+  "aesthetic_score": 8.062246322631836
+}

@@ -1,0 +1,49 @@
+{
+  "image_path": "D:\\Datathon\\property-ai-masterpiece\\dataset\\real\\cluttered\\cluttered_boR7SuyzB7Q.jpg",
+  "spatial": {
+    "room_type": "home office",
+    "room_type_confidence": 0.103,
+    "style": "cluttered messy",
+    "spaciousness_score": 71.1,
+    "clutter_score": 24.0,
+    "lighting_quality": 82.8,
+    "furniture_count": 0,
+    "object_count": 12
+  },
+  "authenticity": {
+    "trust_score": 25.2,
+    "is_ai_generated": true,
+    "detection_confidence": 0.496,
+    "exif_valid": false,
+    "lighting_consistent": false,
+    "noise_variance": 129.68,
+    "artifacts_detected": [
+      "no_exif",
+      "smooth_colour_gradient"
+    ],
+    "ground_truth_label": "real"
+  },
+  "accessibility": {
+    "accessibility_score": 85.0,
+    "has_grab_bar": false,
+    "has_stairs": false,
+    "estimated_door_width_cm": 92,
+    "is_wheelchair_accessible": true,
+    "features_detected": [
+      "wide_door",
+      "step_free"
+    ]
+  },
+  "quality": {
+    "overall_score": 51.7,
+    "lighting_score": 82.8,
+    "composition_score": 45.9,
+    "sharpness_score": 13.0,
+    "resolution_score": 15.6,
+    "trust_component": 7.6,
+    "recommendations": [
+      "Increase image sharpness/focus (+3 pts)"
+    ]
+  },
+  "processing_time_s": 1.3
+}

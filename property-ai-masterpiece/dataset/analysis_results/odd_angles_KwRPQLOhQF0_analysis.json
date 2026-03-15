@@ -1,0 +1,50 @@
+{
+  "image_path": "D:\\Datathon\\property-ai-masterpiece\\dataset\\real\\odd_angles\\odd_angles_KwRPQLOhQF0.jpg",
+  "spatial": {
+    "room_type": "living room",
+    "room_type_confidence": 0.1045,
+    "style": "farmhouse",
+    "spaciousness_score": 36.3,
+    "clutter_score": 14.0,
+    "lighting_quality": 58.4,
+    "furniture_count": 6,
+    "object_count": 7
+  },
+  "authenticity": {
+    "trust_score": 40.1,
+    "is_ai_generated": true,
+    "detection_confidence": 0.198,
+    "exif_valid": false,
+    "lighting_consistent": false,
+    "noise_variance": 199.94,
+    "artifacts_detected": [
+      "no_exif",
+      "smooth_colour_gradient"
+    ],
+    "ground_truth_label": "real"
+  },
+  "accessibility": {
+    "accessibility_score": 70.0,
+    "has_grab_bar": false,
+    "has_stairs": false,
+    "estimated_door_width_cm": 14,
+    "is_wheelchair_accessible": false,
+    "features_detected": [
+      "step_free"
+    ]
+  },
+  "quality": {
+    "overall_score": 49.1,
+    "lighting_score": 58.4,
+    "composition_score": 67.1,
+    "sharpness_score": 20.0,
+    "resolution_score": 16.7,
+    "trust_component": 12.0,
+    "recommendations": [
+      "Improve natural lighting (+5 pts)",
+      "Increase image sharpness/focus (+3 pts)",
+      "Wider angle would improve spaciousness perception (+2 pts)"
+    ]
+  },
+  "processing_time_s": 1.35
+}

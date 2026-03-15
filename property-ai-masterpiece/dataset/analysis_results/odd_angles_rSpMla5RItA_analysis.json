@@ -1,0 +1,48 @@
+{
+  "image_path": "D:\\Datathon\\property-ai-masterpiece\\dataset\\real\\odd_angles\\odd_angles_rSpMla5RItA.jpg",
+  "spatial": {
+    "room_type": "hallway",
+    "room_type_confidence": 0.1018,
+    "style": "luxury contemporary",
+    "spaciousness_score": 50.5,
+    "clutter_score": 2.0,
+    "lighting_quality": 68.8,
+    "furniture_count": 1,
+    "object_count": 1
+  },
+  "authenticity": {
+    "trust_score": 45.2,
+    "is_ai_generated": false,
+    "detection_confidence": 0.096,
+    "exif_valid": false,
+    "lighting_consistent": false,
+    "noise_variance": 283.2,
+    "artifacts_detected": [
+      "no_exif",
+      "smooth_colour_gradient"
+    ],
+    "ground_truth_label": "real"
+  },
+  "accessibility": {
+    "accessibility_score": 70.0,
+    "has_grab_bar": false,
+    "has_stairs": false,
+    "estimated_door_width_cm": 85,
+    "is_wheelchair_accessible": true,
+    "features_detected": [
+      "step_free"
+    ]
+  },
+  "quality": {
+    "overall_score": 56.1,
+    "lighting_score": 68.8,
+    "composition_score": 66.4,
+    "sharpness_score": 28.4,
+    "resolution_score": 15.6,
+    "trust_component": 13.6,
+    "recommendations": [
+      "Increase image sharpness/focus (+3 pts)"
+    ]
+  },
+  "processing_time_s": 1.4
+}

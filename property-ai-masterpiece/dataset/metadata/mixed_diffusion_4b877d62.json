@@ -1,0 +1,18 @@
+{
+  "filename": "mixed_diffusion_4b877d62.jpg",
+  "category": "clean_modern",
+  "type": "fake",
+  "source": "laion-art",
+  "generator_type": "mixed-diffusion",
+  "detection_difficulty": "hard",
+  "artifact_type": "subtle-noise",
+  "lighting_condition": "bright",
+  "clutter_level": "low",
+  "angle_type": "standard",
+  "accessibility_features": false,
+  "width": 800,
+  "height": 800,
+  "collected_at": "2026-03-14T14:19:03.473056",
+  "caption": "new arrivals flower girls lace appliques cap sleeve ball gowns beading floor length pageant first communion dresses wedd",
+  "aesthetic_score": 8.032587051391602
+}

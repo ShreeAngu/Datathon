@@ -1,0 +1,49 @@
+{
+  "image_path": "D:\\Datathon\\property-ai-masterpiece\\dataset\\real\\cluttered\\cluttered_3_PVkGcXqgQ.jpg",
+  "spatial": {
+    "room_type": "home office",
+    "room_type_confidence": 0.1048,
+    "style": "modern minimalist",
+    "spaciousness_score": 22.2,
+    "clutter_score": 20.0,
+    "lighting_quality": 85.0,
+    "furniture_count": 4,
+    "object_count": 6
+  },
+  "authenticity": {
+    "trust_score": 66.7,
+    "is_ai_generated": false,
+    "detection_confidence": 0.334,
+    "exif_valid": false,
+    "lighting_consistent": false,
+    "noise_variance": 1391.35,
+    "artifacts_detected": [
+      "no_exif",
+      "smooth_colour_gradient"
+    ],
+    "ground_truth_label": "real"
+  },
+  "accessibility": {
+    "accessibility_score": 85.0,
+    "has_grab_bar": false,
+    "has_stairs": false,
+    "estimated_door_width_cm": 119,
+    "is_wheelchair_accessible": true,
+    "features_detected": [
+      "wide_door",
+      "step_free"
+    ]
+  },
+  "quality": {
+    "overall_score": 70.3,
+    "lighting_score": 85.0,
+    "composition_score": 77.4,
+    "sharpness_score": 100.0,
+    "resolution_score": 14.1,
+    "trust_component": 20.0,
+    "recommendations": [
+      "Wider angle would improve spaciousness perception (+2 pts)"
+    ]
+  },
+  "processing_time_s": 1.32
+}

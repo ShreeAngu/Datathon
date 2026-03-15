@@ -1,0 +1,49 @@
+{
+  "image_path": "D:\\Datathon\\property-ai-masterpiece\\dataset\\real\\old_outdated\\old_outdated_rcx1j8bi2yM.jpg",
+  "spatial": {
+    "room_type": "staircase",
+    "room_type_confidence": 0.1079,
+    "style": "luxury contemporary",
+    "spaciousness_score": 32.2,
+    "clutter_score": 2.0,
+    "lighting_quality": 59.6,
+    "furniture_count": 0,
+    "object_count": 1
+  },
+  "authenticity": {
+    "trust_score": 67.2,
+    "is_ai_generated": false,
+    "detection_confidence": 0.344,
+    "exif_valid": false,
+    "lighting_consistent": false,
+    "noise_variance": 790.51,
+    "artifacts_detected": [
+      "no_exif",
+      "smooth_colour_gradient"
+    ],
+    "ground_truth_label": "real"
+  },
+  "accessibility": {
+    "accessibility_score": 70.0,
+    "has_grab_bar": false,
+    "has_stairs": false,
+    "estimated_door_width_cm": 85,
+    "is_wheelchair_accessible": true,
+    "features_detected": [
+      "step_free"
+    ]
+  },
+  "quality": {
+    "overall_score": 65.4,
+    "lighting_score": 59.6,
+    "composition_score": 90.1,
+    "sharpness_score": 80.2,
+    "resolution_score": 15.5,
+    "trust_component": 20.2,
+    "recommendations": [
+      "Improve natural lighting (+5 pts)",
+      "Wider angle would improve spaciousness perception (+2 pts)"
+    ]
+  },
+  "processing_time_s": 1.4
+}

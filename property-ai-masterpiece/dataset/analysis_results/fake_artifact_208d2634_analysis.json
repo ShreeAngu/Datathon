@@ -1,0 +1,47 @@
+{
+  "image_path": "D:\\Datathon\\property-ai-masterpiece\\dataset\\fake\\fake_artifact_208d2634.jpg",
+  "spatial": {
+    "room_type": "hallway",
+    "room_type_confidence": 0.1036,
+    "style": "modern minimalist",
+    "spaciousness_score": 60.7,
+    "clutter_score": 0.0,
+    "lighting_quality": 72.9,
+    "furniture_count": 0,
+    "object_count": 0
+  },
+  "authenticity": {
+    "trust_score": 32.9,
+    "is_ai_generated": true,
+    "detection_confidence": 0.342,
+    "exif_valid": false,
+    "lighting_consistent": false,
+    "noise_variance": 66.11,
+    "artifacts_detected": [
+      "no_exif"
+    ],
+    "ground_truth_label": "fake"
+  },
+  "accessibility": {
+    "accessibility_score": 70.0,
+    "has_grab_bar": false,
+    "has_stairs": false,
+    "estimated_door_width_cm": 85,
+    "is_wheelchair_accessible": true,
+    "features_detected": [
+      "step_free"
+    ]
+  },
+  "quality": {
+    "overall_score": 52.0,
+    "lighting_score": 72.9,
+    "composition_score": 59.9,
+    "sharpness_score": 6.6,
+    "resolution_score": 15.6,
+    "trust_component": 9.9,
+    "recommendations": [
+      "Increase image sharpness/focus (+3 pts)"
+    ]
+  },
+  "processing_time_s": 1.18
+}

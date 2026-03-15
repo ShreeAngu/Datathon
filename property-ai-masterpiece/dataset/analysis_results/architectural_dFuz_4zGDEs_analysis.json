@@ -1,0 +1,48 @@
+{
+  "image_path": "D:\\Datathon\\property-ai-masterpiece\\dataset\\real\\architectural\\architectural_dFuz_4zGDEs.jpg",
+  "spatial": {
+    "room_type": "living room",
+    "room_type_confidence": 0.105,
+    "style": "luxury contemporary",
+    "spaciousness_score": 24.7,
+    "clutter_score": 18.0,
+    "lighting_quality": 83.2,
+    "furniture_count": 4,
+    "object_count": 5
+  },
+  "authenticity": {
+    "trust_score": 61.1,
+    "is_ai_generated": false,
+    "detection_confidence": 0.222,
+    "exif_valid": false,
+    "lighting_consistent": false,
+    "noise_variance": 684.28,
+    "artifacts_detected": [
+      "no_exif",
+      "smooth_colour_gradient"
+    ],
+    "ground_truth_label": "real"
+  },
+  "accessibility": {
+    "accessibility_score": 70.0,
+    "has_grab_bar": false,
+    "has_stairs": false,
+    "estimated_door_width_cm": 33,
+    "is_wheelchair_accessible": false,
+    "features_detected": [
+      "step_free"
+    ]
+  },
+  "quality": {
+    "overall_score": 63.3,
+    "lighting_score": 83.2,
+    "composition_score": 56.6,
+    "sharpness_score": 68.9,
+    "resolution_score": 18.7,
+    "trust_component": 18.3,
+    "recommendations": [
+      "Wider angle would improve spaciousness perception (+2 pts)"
+    ]
+  },
+  "processing_time_s": 1.33
+}

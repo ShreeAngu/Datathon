@@ -1,0 +1,46 @@
+{
+  "image_path": "D:\\Datathon\\property-ai-masterpiece\\dataset\\real\\cluttered\\cluttered_Ci0LxMd5AOQ.jpg",
+  "spatial": {
+    "room_type": "living room",
+    "room_type_confidence": 0.1052,
+    "style": "luxury contemporary",
+    "spaciousness_score": 51.0,
+    "clutter_score": 22.0,
+    "lighting_quality": 73.8,
+    "furniture_count": 6,
+    "object_count": 7
+  },
+  "authenticity": {
+    "trust_score": 66.0,
+    "is_ai_generated": false,
+    "detection_confidence": 0.32,
+    "exif_valid": false,
+    "lighting_consistent": false,
+    "noise_variance": 1183.06,
+    "artifacts_detected": [
+      "no_exif",
+      "smooth_colour_gradient"
+    ],
+    "ground_truth_label": "real"
+  },
+  "accessibility": {
+    "accessibility_score": 70.0,
+    "has_grab_bar": false,
+    "has_stairs": false,
+    "estimated_door_width_cm": 17,
+    "is_wheelchair_accessible": false,
+    "features_detected": [
+      "step_free"
+    ]
+  },
+  "quality": {
+    "overall_score": 68.9,
+    "lighting_score": 73.8,
+    "composition_score": 72.1,
+    "sharpness_score": 100.0,
+    "resolution_score": 17.5,
+    "trust_component": 19.8,
+    "recommendations": []
+  },
+  "processing_time_s": 1.17
+}

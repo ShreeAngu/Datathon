@@ -1,0 +1,46 @@
+{
+  "image_path": "D:\\Datathon\\property-ai-masterpiece\\dataset\\real\\clean_modern\\clean_modern_nAFuA8t5K9Y.jpg",
+  "spatial": {
+    "room_type": "living room",
+    "room_type_confidence": 0.1034,
+    "style": "luxury contemporary",
+    "spaciousness_score": 74.4,
+    "clutter_score": 6.0,
+    "lighting_quality": 68.4,
+    "furniture_count": 3,
+    "object_count": 3
+  },
+  "authenticity": {
+    "trust_score": 66.0,
+    "is_ai_generated": false,
+    "detection_confidence": 0.32,
+    "exif_valid": false,
+    "lighting_consistent": false,
+    "noise_variance": 626.0,
+    "artifacts_detected": [
+      "no_exif",
+      "smooth_colour_gradient"
+    ],
+    "ground_truth_label": "real"
+  },
+  "accessibility": {
+    "accessibility_score": 70.0,
+    "has_grab_bar": false,
+    "has_stairs": false,
+    "estimated_door_width_cm": 22,
+    "is_wheelchair_accessible": false,
+    "features_detected": [
+      "step_free"
+    ]
+  },
+  "quality": {
+    "overall_score": 67.9,
+    "lighting_score": 68.4,
+    "composition_score": 71.7,
+    "sharpness_score": 62.7,
+    "resolution_score": 14.6,
+    "trust_component": 19.8,
+    "recommendations": []
+  },
+  "processing_time_s": 1.32
+}

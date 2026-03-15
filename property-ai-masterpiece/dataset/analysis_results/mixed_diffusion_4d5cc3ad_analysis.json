@@ -1,0 +1,47 @@
+{
+  "image_path": "D:\\Datathon\\property-ai-masterpiece\\dataset\\fake\\mixed_diffusion_4d5cc3ad.jpg",
+  "spatial": {
+    "room_type": "garage",
+    "room_type_confidence": 0.1022,
+    "style": "bohemian",
+    "spaciousness_score": 58.7,
+    "clutter_score": 16.0,
+    "lighting_quality": 75.1,
+    "furniture_count": 3,
+    "object_count": 8
+  },
+  "authenticity": {
+    "trust_score": 65.5,
+    "is_ai_generated": false,
+    "detection_confidence": 0.31,
+    "exif_valid": false,
+    "lighting_consistent": false,
+    "noise_variance": 671.86,
+    "artifacts_detected": [
+      "no_exif",
+      "smooth_colour_gradient"
+    ],
+    "ground_truth_label": "fake"
+  },
+  "accessibility": {
+    "accessibility_score": 85.0,
+    "has_grab_bar": false,
+    "has_stairs": false,
+    "estimated_door_width_cm": 165,
+    "is_wheelchair_accessible": true,
+    "features_detected": [
+      "wide_door",
+      "step_free"
+    ]
+  },
+  "quality": {
+    "overall_score": 69.7,
+    "lighting_score": 75.1,
+    "composition_score": 97.9,
+    "sharpness_score": 67.2,
+    "resolution_score": 12.3,
+    "trust_component": 19.6,
+    "recommendations": []
+  },
+  "processing_time_s": 1.22
+}

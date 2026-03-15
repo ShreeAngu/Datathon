@@ -1,0 +1,50 @@
+{
+  "image_path": "D:\\Datathon\\property-ai-masterpiece\\dataset\\real\\poor_lighting\\poor_lighting_RdkVcAS3738.jpg",
+  "spatial": {
+    "room_type": "kitchen",
+    "room_type_confidence": 0.1036,
+    "style": "cluttered messy",
+    "spaciousness_score": 79.7,
+    "clutter_score": 0.0,
+    "lighting_quality": 0.0,
+    "furniture_count": 0,
+    "object_count": 0
+  },
+  "authenticity": {
+    "trust_score": 11.6,
+    "is_ai_generated": true,
+    "detection_confidence": 0.768,
+    "exif_valid": false,
+    "lighting_consistent": false,
+    "noise_variance": 29.24,
+    "artifacts_detected": [
+      "no_exif",
+      "low_noise_variance",
+      "low_dct_artifacts"
+    ],
+    "ground_truth_label": "real"
+  },
+  "accessibility": {
+    "accessibility_score": 70.0,
+    "has_grab_bar": false,
+    "has_stairs": false,
+    "estimated_door_width_cm": 85,
+    "is_wheelchair_accessible": true,
+    "features_detected": [
+      "step_free"
+    ]
+  },
+  "quality": {
+    "overall_score": 31.6,
+    "lighting_score": 0.0,
+    "composition_score": 40.7,
+    "sharpness_score": 3.1,
+    "resolution_score": 15.6,
+    "trust_component": 3.5,
+    "recommendations": [
+      "Improve natural lighting (+5 pts)",
+      "Increase image sharpness/focus (+3 pts)"
+    ]
+  },
+  "processing_time_s": 1.21
+}

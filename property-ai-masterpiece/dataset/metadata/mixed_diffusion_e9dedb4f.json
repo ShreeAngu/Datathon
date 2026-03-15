@@ -1,0 +1,18 @@
+{
+  "filename": "mixed_diffusion_e9dedb4f.jpg",
+  "category": "clean_modern",
+  "type": "fake",
+  "source": "laion-art",
+  "generator_type": "mixed-diffusion",
+  "detection_difficulty": "hard",
+  "artifact_type": "subtle-noise",
+  "lighting_condition": "bright",
+  "clutter_level": "low",
+  "angle_type": "standard",
+  "accessibility_features": false,
+  "width": 1024,
+  "height": 618,
+  "collected_at": "2026-03-14T14:19:04.385691",
+  "caption": "karyees daisy 16x20in paint by numbers kits daisy diy painting by numbers daisy diy canvas painting by numbers acrylic p",
+  "aesthetic_score": 8.174056053161621
+}

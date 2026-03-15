@@ -1,0 +1,46 @@
+{
+  "image_path": "D:\\Datathon\\property-ai-masterpiece\\dataset\\real\\accessibility\\accessibility_bxqsrRocagw.jpg",
+  "spatial": {
+    "room_type": "bathroom",
+    "room_type_confidence": 0.1085,
+    "style": "luxury contemporary",
+    "spaciousness_score": 52.1,
+    "clutter_score": 46.0,
+    "lighting_quality": 82.8,
+    "furniture_count": 1,
+    "object_count": 7
+  },
+  "authenticity": {
+    "trust_score": 59.9,
+    "is_ai_generated": false,
+    "detection_confidence": 0.198,
+    "exif_valid": false,
+    "lighting_consistent": false,
+    "noise_variance": 434.85,
+    "artifacts_detected": [
+      "no_exif",
+      "smooth_colour_gradient"
+    ],
+    "ground_truth_label": "real"
+  },
+  "accessibility": {
+    "accessibility_score": 70.0,
+    "has_grab_bar": false,
+    "has_stairs": false,
+    "estimated_door_width_cm": 41,
+    "is_wheelchair_accessible": false,
+    "features_detected": [
+      "step_free"
+    ]
+  },
+  "quality": {
+    "overall_score": 60.5,
+    "lighting_score": 82.8,
+    "composition_score": 63.0,
+    "sharpness_score": 43.7,
+    "resolution_score": 17.5,
+    "trust_component": 18.0,
+    "recommendations": []
+  },
+  "processing_time_s": 1.3
+}

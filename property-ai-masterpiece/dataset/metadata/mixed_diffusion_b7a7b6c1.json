@@ -1,0 +1,18 @@
+{
+  "filename": "mixed_diffusion_b7a7b6c1.jpg",
+  "category": "clean_modern",
+  "type": "fake",
+  "source": "laion-art",
+  "generator_type": "mixed-diffusion",
+  "detection_difficulty": "hard",
+  "artifact_type": "subtle-noise",
+  "lighting_condition": "bright",
+  "clutter_level": "low",
+  "angle_type": "standard",
+  "accessibility_features": false,
+  "width": 840,
+  "height": 450,
+  "collected_at": "2026-03-14T14:18:35.416608",
+  "caption": "ceramic bathroom sink vessel top counter colored folk art ebay",
+  "aesthetic_score": 8.181163787841797
+}

@@ -1,0 +1,46 @@
+{
+  "image_path": "D:\\Datathon\\property-ai-masterpiece\\dataset\\real\\architectural\\architectural_l58QaABNaL8.jpg",
+  "spatial": {
+    "room_type": "living room",
+    "room_type_confidence": 0.1047,
+    "style": "luxury contemporary",
+    "spaciousness_score": 56.8,
+    "clutter_score": 6.0,
+    "lighting_quality": 79.6,
+    "furniture_count": 3,
+    "object_count": 3
+  },
+  "authenticity": {
+    "trust_score": 66.4,
+    "is_ai_generated": false,
+    "detection_confidence": 0.328,
+    "exif_valid": false,
+    "lighting_consistent": false,
+    "noise_variance": 540.79,
+    "artifacts_detected": [
+      "no_exif",
+      "smooth_colour_gradient"
+    ],
+    "ground_truth_label": "real"
+  },
+  "accessibility": {
+    "accessibility_score": 70.0,
+    "has_grab_bar": false,
+    "has_stairs": false,
+    "estimated_door_width_cm": 85,
+    "is_wheelchair_accessible": true,
+    "features_detected": [
+      "step_free"
+    ]
+  },
+  "quality": {
+    "overall_score": 67.6,
+    "lighting_score": 79.6,
+    "composition_score": 68.1,
+    "sharpness_score": 54.5,
+    "resolution_score": 15.6,
+    "trust_component": 19.9,
+    "recommendations": []
+  },
+  "processing_time_s": 1.26
+}

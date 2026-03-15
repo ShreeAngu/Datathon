@@ -1,0 +1,8 @@
+{
+  "source": "FatimahEmadEldin/genai-manipulation-detection-interior",
+  "type": "fake",
+  "label": "fake",
+  "manipulation_category": "physical_impossibility",
+  "manipulation_technique": "shadow_mismatch",
+  "pair_id": 630
+}

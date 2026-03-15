@@ -1,0 +1,48 @@
+{
+  "image_path": "D:\\Datathon\\property-ai-masterpiece\\dataset\\fake\\fake_artifact_1f39e562.jpg",
+  "spatial": {
+    "room_type": "living room",
+    "room_type_confidence": 0.104,
+    "style": "luxury contemporary",
+    "spaciousness_score": 22.7,
+    "clutter_score": 18.0,
+    "lighting_quality": 67.7,
+    "furniture_count": 8,
+    "object_count": 9
+  },
+  "authenticity": {
+    "trust_score": 66.3,
+    "is_ai_generated": false,
+    "detection_confidence": 0.326,
+    "exif_valid": false,
+    "lighting_consistent": false,
+    "noise_variance": 669.76,
+    "artifacts_detected": [
+      "no_exif",
+      "smooth_colour_gradient"
+    ],
+    "ground_truth_label": "fake"
+  },
+  "accessibility": {
+    "accessibility_score": 70.0,
+    "has_grab_bar": false,
+    "has_stairs": false,
+    "estimated_door_width_cm": 85,
+    "is_wheelchair_accessible": true,
+    "features_detected": [
+      "step_free"
+    ]
+  },
+  "quality": {
+    "overall_score": 62.8,
+    "lighting_score": 67.7,
+    "composition_score": 87.9,
+    "sharpness_score": 67.4,
+    "resolution_score": 15.5,
+    "trust_component": 19.9,
+    "recommendations": [
+      "Wider angle would improve spaciousness perception (+2 pts)"
+    ]
+  },
+  "processing_time_s": 1.19
+}

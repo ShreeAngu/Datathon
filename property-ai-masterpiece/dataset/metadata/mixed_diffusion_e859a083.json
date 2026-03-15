@@ -1,0 +1,18 @@
+{
+  "filename": "mixed_diffusion_e859a083.jpg",
+  "category": "clean_modern",
+  "type": "fake",
+  "source": "laion-art",
+  "generator_type": "mixed-diffusion",
+  "detection_difficulty": "hard",
+  "artifact_type": "subtle-noise",
+  "lighting_condition": "bright",
+  "clutter_level": "low",
+  "angle_type": "standard",
+  "accessibility_features": false,
+  "width": 480,
+  "height": 318,
+  "collected_at": "2026-03-14T14:18:35.685825",
+  "caption": "papier-m\u00e2ch\u00e9 hangs from the ceilings in the form of characters from  disney's frozen.",
+  "aesthetic_score": 8.512517929077148
+}

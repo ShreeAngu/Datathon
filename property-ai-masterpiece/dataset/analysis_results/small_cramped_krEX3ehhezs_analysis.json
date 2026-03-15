@@ -1,0 +1,50 @@
+{
+  "image_path": "D:\\Datathon\\property-ai-masterpiece\\dataset\\real\\small_cramped\\small_cramped_krEX3ehhezs.jpg",
+  "spatial": {
+    "room_type": "living room",
+    "room_type_confidence": 0.1044,
+    "style": "modern minimalist",
+    "spaciousness_score": 38.3,
+    "clutter_score": 36.0,
+    "lighting_quality": 79.2,
+    "furniture_count": 14,
+    "object_count": 14
+  },
+  "authenticity": {
+    "trust_score": 56.6,
+    "is_ai_generated": false,
+    "detection_confidence": 0.132,
+    "exif_valid": false,
+    "lighting_consistent": false,
+    "noise_variance": 369.15,
+    "artifacts_detected": [
+      "no_exif",
+      "smooth_colour_gradient"
+    ],
+    "ground_truth_label": "real"
+  },
+  "accessibility": {
+    "accessibility_score": 85.0,
+    "has_grab_bar": false,
+    "has_stairs": false,
+    "estimated_door_width_cm": 101,
+    "is_wheelchair_accessible": true,
+    "features_detected": [
+      "wide_door",
+      "step_free"
+    ]
+  },
+  "quality": {
+    "overall_score": 60.4,
+    "lighting_score": 79.2,
+    "composition_score": 87.7,
+    "sharpness_score": 37.2,
+    "resolution_score": 15.6,
+    "trust_component": 17.0,
+    "recommendations": [
+      "Increase image sharpness/focus (+3 pts)",
+      "Wider angle would improve spaciousness perception (+2 pts)"
+    ]
+  },
+  "processing_time_s": 1.23
+}

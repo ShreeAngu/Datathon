@@ -1,0 +1,49 @@
+{
+  "image_path": "D:\\Datathon\\property-ai-masterpiece\\dataset\\real\\architectural\\architectural_1SuTQ2sR88g.jpg",
+  "spatial": {
+    "room_type": "dining room",
+    "room_type_confidence": 0.1037,
+    "style": "industrial",
+    "spaciousness_score": 45.2,
+    "clutter_score": 20.0,
+    "lighting_quality": 57.9,
+    "furniture_count": 10,
+    "object_count": 10
+  },
+  "authenticity": {
+    "trust_score": 67.3,
+    "is_ai_generated": false,
+    "detection_confidence": 0.346,
+    "exif_valid": false,
+    "lighting_consistent": false,
+    "noise_variance": 1267.66,
+    "artifacts_detected": [
+      "no_exif",
+      "smooth_colour_gradient"
+    ],
+    "ground_truth_label": "real"
+  },
+  "accessibility": {
+    "accessibility_score": 85.0,
+    "has_grab_bar": true,
+    "has_stairs": false,
+    "estimated_door_width_cm": 46,
+    "is_wheelchair_accessible": false,
+    "features_detected": [
+      "grab_bar",
+      "step_free"
+    ]
+  },
+  "quality": {
+    "overall_score": 68.6,
+    "lighting_score": 57.9,
+    "composition_score": 100.0,
+    "sharpness_score": 100.0,
+    "resolution_score": 15.6,
+    "trust_component": 20.2,
+    "recommendations": [
+      "Improve natural lighting (+5 pts)"
+    ]
+  },
+  "processing_time_s": 1.32
+}

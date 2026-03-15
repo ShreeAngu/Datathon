@@ -1,0 +1,50 @@
+{
+  "image_path": "D:\\Datathon\\property-ai-masterpiece\\dataset\\real\\cluttered\\cluttered_bmmXSqxv53U.jpg",
+  "spatial": {
+    "room_type": "kitchen",
+    "room_type_confidence": 0.1061,
+    "style": "luxury contemporary",
+    "spaciousness_score": 21.9,
+    "clutter_score": 42.0,
+    "lighting_quality": 67.9,
+    "furniture_count": 0,
+    "object_count": 5
+  },
+  "authenticity": {
+    "trust_score": 39.7,
+    "is_ai_generated": true,
+    "detection_confidence": 0.206,
+    "exif_valid": false,
+    "lighting_consistent": false,
+    "noise_variance": 231.8,
+    "artifacts_detected": [
+      "no_exif",
+      "smooth_colour_gradient"
+    ],
+    "ground_truth_label": "real"
+  },
+  "accessibility": {
+    "accessibility_score": 85.0,
+    "has_grab_bar": true,
+    "has_stairs": false,
+    "estimated_door_width_cm": 14,
+    "is_wheelchair_accessible": false,
+    "features_detected": [
+      "grab_bar",
+      "step_free"
+    ]
+  },
+  "quality": {
+    "overall_score": 48.2,
+    "lighting_score": 67.9,
+    "composition_score": 60.9,
+    "sharpness_score": 23.5,
+    "resolution_score": 15.6,
+    "trust_component": 11.9,
+    "recommendations": [
+      "Increase image sharpness/focus (+3 pts)",
+      "Wider angle would improve spaciousness perception (+2 pts)"
+    ]
+  },
+  "processing_time_s": 1.22
+}

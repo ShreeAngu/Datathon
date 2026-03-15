@@ -1,0 +1,18 @@
+{
+  "filename": "mixed_diffusion_fc9a9e81.jpg",
+  "category": "clean_modern",
+  "type": "fake",
+  "source": "laion-art",
+  "generator_type": "mixed-diffusion",
+  "detection_difficulty": "hard",
+  "artifact_type": "subtle-noise",
+  "lighting_condition": "bright",
+  "clutter_level": "low",
+  "angle_type": "standard",
+  "accessibility_features": false,
+  "width": 460,
+  "height": 460,
+  "collected_at": "2026-03-14T13:24:01.291627",
+  "caption": "cathys flower house wooden diy house \u2013 lights on at night",
+  "aesthetic_score": 8.319522857666016
+}

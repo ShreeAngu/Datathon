@@ -1,0 +1,49 @@
+{
+  "image_path": "D:\\Datathon\\property-ai-masterpiece\\dataset\\real\\architectural\\architectural_ATvqZ9YorX8.jpg",
+  "spatial": {
+    "room_type": "bedroom",
+    "room_type_confidence": 0.103,
+    "style": "modern minimalist",
+    "spaciousness_score": 50.8,
+    "clutter_score": 2.0,
+    "lighting_quality": 78.4,
+    "furniture_count": 1,
+    "object_count": 1
+  },
+  "authenticity": {
+    "trust_score": 14.3,
+    "is_ai_generated": true,
+    "detection_confidence": 0.714,
+    "exif_valid": false,
+    "lighting_consistent": false,
+    "noise_variance": 23.14,
+    "artifacts_detected": [
+      "no_exif",
+      "smooth_colour_gradient",
+      "low_noise_variance"
+    ],
+    "ground_truth_label": "real"
+  },
+  "accessibility": {
+    "accessibility_score": 70.0,
+    "has_grab_bar": false,
+    "has_stairs": false,
+    "estimated_door_width_cm": 85,
+    "is_wheelchair_accessible": true,
+    "features_detected": [
+      "step_free"
+    ]
+  },
+  "quality": {
+    "overall_score": 45.1,
+    "lighting_score": 78.4,
+    "composition_score": 45.6,
+    "sharpness_score": 2.3,
+    "resolution_score": 15.5,
+    "trust_component": 4.3,
+    "recommendations": [
+      "Increase image sharpness/focus (+3 pts)"
+    ]
+  },
+  "processing_time_s": 1.35
+}

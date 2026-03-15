@@ -1,0 +1,48 @@
+{
+  "image_path": "D:\\Datathon\\property-ai-masterpiece\\dataset\\real\\architectural\\architectural_ba_-rcbFeBA.jpg",
+  "spatial": {
+    "room_type": "dining room",
+    "room_type_confidence": 0.1019,
+    "style": "industrial",
+    "spaciousness_score": 42.2,
+    "clutter_score": 0.0,
+    "lighting_quality": 73.4,
+    "furniture_count": 0,
+    "object_count": 0
+  },
+  "authenticity": {
+    "trust_score": 29.2,
+    "is_ai_generated": true,
+    "detection_confidence": 0.416,
+    "exif_valid": false,
+    "lighting_consistent": false,
+    "noise_variance": 103.2,
+    "artifacts_detected": [
+      "no_exif",
+      "smooth_colour_gradient"
+    ],
+    "ground_truth_label": "real"
+  },
+  "accessibility": {
+    "accessibility_score": 70.0,
+    "has_grab_bar": false,
+    "has_stairs": false,
+    "estimated_door_width_cm": 85,
+    "is_wheelchair_accessible": true,
+    "features_detected": [
+      "step_free"
+    ]
+  },
+  "quality": {
+    "overall_score": 49.9,
+    "lighting_score": 73.4,
+    "composition_score": 70.4,
+    "sharpness_score": 10.3,
+    "resolution_score": 13.1,
+    "trust_component": 8.8,
+    "recommendations": [
+      "Increase image sharpness/focus (+3 pts)"
+    ]
+  },
+  "processing_time_s": 1.45
+}

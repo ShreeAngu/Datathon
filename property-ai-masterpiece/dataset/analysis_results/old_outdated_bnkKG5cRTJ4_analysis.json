@@ -1,0 +1,49 @@
+{
+  "image_path": "D:\\Datathon\\property-ai-masterpiece\\dataset\\real\\old_outdated\\old_outdated_bnkKG5cRTJ4.jpg",
+  "spatial": {
+    "room_type": "kitchen",
+    "room_type_confidence": 0.1017,
+    "style": "cluttered messy",
+    "spaciousness_score": 62.3,
+    "clutter_score": 46.0,
+    "lighting_quality": 75.7,
+    "furniture_count": 8,
+    "object_count": 11
+  },
+  "authenticity": {
+    "trust_score": 40.1,
+    "is_ai_generated": true,
+    "detection_confidence": 0.198,
+    "exif_valid": false,
+    "lighting_consistent": false,
+    "noise_variance": 202.4,
+    "artifacts_detected": [
+      "no_exif",
+      "smooth_colour_gradient"
+    ],
+    "ground_truth_label": "real"
+  },
+  "accessibility": {
+    "accessibility_score": 85.0,
+    "has_grab_bar": false,
+    "has_stairs": false,
+    "estimated_door_width_cm": 100,
+    "is_wheelchair_accessible": true,
+    "features_detected": [
+      "wide_door",
+      "step_free"
+    ]
+  },
+  "quality": {
+    "overall_score": 53.6,
+    "lighting_score": 75.7,
+    "composition_score": 68.1,
+    "sharpness_score": 20.7,
+    "resolution_score": 15.6,
+    "trust_component": 12.0,
+    "recommendations": [
+      "Increase image sharpness/focus (+3 pts)"
+    ]
+  },
+  "processing_time_s": 1.39
+}

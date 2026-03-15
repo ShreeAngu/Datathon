@@ -1,0 +1,49 @@
+{
+  "image_path": "D:\\Datathon\\property-ai-masterpiece\\dataset\\real\\old_outdated\\old_outdated_rFlds8vzil0.jpg",
+  "spatial": {
+    "room_type": "basement",
+    "room_type_confidence": 0.1025,
+    "style": "modern minimalist",
+    "spaciousness_score": 50.7,
+    "clutter_score": 2.0,
+    "lighting_quality": 48.8,
+    "furniture_count": 0,
+    "object_count": 1
+  },
+  "authenticity": {
+    "trust_score": 41.9,
+    "is_ai_generated": true,
+    "detection_confidence": 0.162,
+    "exif_valid": false,
+    "lighting_consistent": false,
+    "noise_variance": 195.33,
+    "artifacts_detected": [
+      "no_exif",
+      "smooth_colour_gradient"
+    ],
+    "ground_truth_label": "real"
+  },
+  "accessibility": {
+    "accessibility_score": 70.0,
+    "has_grab_bar": false,
+    "has_stairs": false,
+    "estimated_door_width_cm": 36,
+    "is_wheelchair_accessible": false,
+    "features_detected": [
+      "step_free"
+    ]
+  },
+  "quality": {
+    "overall_score": 51.2,
+    "lighting_score": 48.8,
+    "composition_score": 86.2,
+    "sharpness_score": 19.5,
+    "resolution_score": 15.5,
+    "trust_component": 12.6,
+    "recommendations": [
+      "Improve natural lighting (+5 pts)",
+      "Increase image sharpness/focus (+3 pts)"
+    ]
+  },
+  "processing_time_s": 1.41
+}

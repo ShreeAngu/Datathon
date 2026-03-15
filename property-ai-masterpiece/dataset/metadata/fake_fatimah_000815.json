@@ -1,0 +1,8 @@
+{
+  "source": "FatimahEmadEldin/genai-manipulation-detection-interior",
+  "type": "fake",
+  "label": "fake",
+  "manipulation_category": "frequency_manipulation",
+  "manipulation_technique": "grid_artifact",
+  "pair_id": 815
+}

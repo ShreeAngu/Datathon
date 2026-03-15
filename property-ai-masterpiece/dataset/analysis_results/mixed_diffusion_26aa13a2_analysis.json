@@ -1,0 +1,49 @@
+{
+  "image_path": "D:\\Datathon\\property-ai-masterpiece\\dataset\\fake\\mixed_diffusion_26aa13a2.jpg",
+  "spatial": {
+    "room_type": "bedroom",
+    "room_type_confidence": 0.1055,
+    "style": "luxury contemporary",
+    "spaciousness_score": 39.4,
+    "clutter_score": 6.0,
+    "lighting_quality": 57.3,
+    "furniture_count": 3,
+    "object_count": 3
+  },
+  "authenticity": {
+    "trust_score": 65.8,
+    "is_ai_generated": false,
+    "detection_confidence": 0.316,
+    "exif_valid": false,
+    "lighting_consistent": false,
+    "noise_variance": 742.7,
+    "artifacts_detected": [
+      "no_exif",
+      "smooth_colour_gradient"
+    ],
+    "ground_truth_label": "fake"
+  },
+  "accessibility": {
+    "accessibility_score": 70.0,
+    "has_grab_bar": false,
+    "has_stairs": false,
+    "estimated_door_width_cm": 46,
+    "is_wheelchair_accessible": false,
+    "features_detected": [
+      "step_free"
+    ]
+  },
+  "quality": {
+    "overall_score": 64.3,
+    "lighting_score": 57.3,
+    "composition_score": 100.0,
+    "sharpness_score": 74.6,
+    "resolution_score": 6.1,
+    "trust_component": 19.7,
+    "recommendations": [
+      "Improve natural lighting (+5 pts)",
+      "Wider angle would improve spaciousness perception (+2 pts)"
+    ]
+  },
+  "processing_time_s": 1.26
+}

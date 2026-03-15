@@ -1,0 +1,46 @@
+{
+  "image_path": "D:\\Datathon\\property-ai-masterpiece\\dataset\\uploads\\d8866492-45fe-4ae2-86f1-0e4c86073caf_WhatsApp Image 2026-03-14 at 9.58.12 AM.jpeg",
+  "spatial": {
+    "room_type": "bedroom",
+    "room_type_confidence": 0.1054,
+    "style": "cluttered messy",
+    "spaciousness_score": 42.0,
+    "clutter_score": 16.0,
+    "lighting_quality": 60.1,
+    "furniture_count": 5,
+    "object_count": 8
+  },
+  "authenticity": {
+    "trust_score": 66.4,
+    "is_ai_generated": false,
+    "detection_confidence": 0.328,
+    "exif_valid": false,
+    "lighting_consistent": false,
+    "noise_variance": 835.22,
+    "artifacts_detected": [
+      "no_exif",
+      "smooth_colour_gradient"
+    ],
+    "ground_truth_label": null
+  },
+  "accessibility": {
+    "accessibility_score": 70.0,
+    "has_grab_bar": false,
+    "has_stairs": false,
+    "estimated_door_width_cm": 48,
+    "is_wheelchair_accessible": false,
+    "features_detected": [
+      "step_free"
+    ]
+  },
+  "quality": {
+    "overall_score": 65.3,
+    "lighting_score": 60.1,
+    "composition_score": 100.0,
+    "sharpness_score": 84.6,
+    "resolution_score": 5.8,
+    "trust_component": 19.9,
+    "recommendations": []
+  },
+  "processing_time_s": 5.88
+}

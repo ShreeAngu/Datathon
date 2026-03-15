@@ -1,0 +1,18 @@
+{
+  "filename": "mixed_diffusion_02edf2c7.jpg",
+  "category": "clean_modern",
+  "type": "fake",
+  "source": "laion-art",
+  "generator_type": "mixed-diffusion",
+  "detection_difficulty": "hard",
+  "artifact_type": "subtle-noise",
+  "lighting_condition": "bright",
+  "clutter_level": "low",
+  "angle_type": "standard",
+  "accessibility_features": false,
+  "width": 565,
+  "height": 706,
+  "collected_at": "2026-03-14T14:19:03.249644",
+  "caption": "paper flower backdrop   all flowers in image   dessert table flowers   home  decor   baby room decoration   kardashian b",
+  "aesthetic_score": 8.06289291381836
+}

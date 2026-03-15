@@ -1,0 +1,18 @@
+{
+  "filename": "mixed_diffusion_2275b3c3.jpg",
+  "category": "clean_modern",
+  "type": "fake",
+  "source": "laion-art",
+  "generator_type": "mixed-diffusion",
+  "detection_difficulty": "hard",
+  "artifact_type": "subtle-noise",
+  "lighting_condition": "bright",
+  "clutter_level": "low",
+  "angle_type": "standard",
+  "accessibility_features": false,
+  "width": 1500,
+  "height": 1127,
+  "collected_at": "2026-03-14T13:24:17.017995",
+  "caption": "4pcs/lot love cookie stencils fondant molds cookie mold cake stencils - kitchen, dining and bar - photo 4",
+  "aesthetic_score": 8.391383171081543
+}

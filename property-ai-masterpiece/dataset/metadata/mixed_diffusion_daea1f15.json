@@ -1,0 +1,18 @@
+{
+  "filename": "mixed_diffusion_daea1f15.jpg",
+  "category": "clean_modern",
+  "type": "fake",
+  "source": "laion-art",
+  "generator_type": "mixed-diffusion",
+  "detection_difficulty": "hard",
+  "artifact_type": "subtle-noise",
+  "lighting_condition": "bright",
+  "clutter_level": "low",
+  "angle_type": "standard",
+  "accessibility_features": false,
+  "width": 1000,
+  "height": 1000,
+  "collected_at": "2026-03-14T13:24:16.185048",
+  "caption": "10x mini pink heart cupcake bakery pastries dollhouse miniature sweet dessert barbie blythe supply 1:6 scale decoration",
+  "aesthetic_score": 8.765161514282227
+}

@@ -1,0 +1,51 @@
+{
+  "image_path": "D:\\Datathon\\property-ai-masterpiece\\dataset\\real\\odd_angles\\odd_angles_zWTny0mYzT4.jpg",
+  "spatial": {
+    "room_type": "staircase",
+    "room_type_confidence": 0.1054,
+    "style": "modern minimalist",
+    "spaciousness_score": 39.3,
+    "clutter_score": 2.0,
+    "lighting_quality": 68.4,
+    "furniture_count": 0,
+    "object_count": 1
+  },
+  "authenticity": {
+    "trust_score": 7.7,
+    "is_ai_generated": true,
+    "detection_confidence": 0.846,
+    "exif_valid": false,
+    "lighting_consistent": false,
+    "noise_variance": 7.63,
+    "artifacts_detected": [
+      "no_exif",
+      "smooth_colour_gradient",
+      "low_noise_variance",
+      "low_dct_artifacts"
+    ],
+    "ground_truth_label": "real"
+  },
+  "accessibility": {
+    "accessibility_score": 70.0,
+    "has_grab_bar": false,
+    "has_stairs": false,
+    "estimated_door_width_cm": 85,
+    "is_wheelchair_accessible": true,
+    "features_detected": [
+      "step_free"
+    ]
+  },
+  "quality": {
+    "overall_score": 39.7,
+    "lighting_score": 68.4,
+    "composition_score": 41.7,
+    "sharpness_score": 0.8,
+    "resolution_score": 15.6,
+    "trust_component": 2.3,
+    "recommendations": [
+      "Increase image sharpness/focus (+3 pts)",
+      "Wider angle would improve spaciousness perception (+2 pts)"
+    ]
+  },
+  "processing_time_s": 1.37
+}

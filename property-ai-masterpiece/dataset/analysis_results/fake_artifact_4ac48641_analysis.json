@@ -1,0 +1,48 @@
+{
+  "image_path": "D:\\Datathon\\property-ai-masterpiece\\dataset\\fake\\fake_artifact_4ac48641.jpg",
+  "spatial": {
+    "room_type": "bedroom",
+    "room_type_confidence": 0.1065,
+    "style": "luxury contemporary",
+    "spaciousness_score": 17.0,
+    "clutter_score": 6.0,
+    "lighting_quality": 76.0,
+    "furniture_count": 2,
+    "object_count": 3
+  },
+  "authenticity": {
+    "trust_score": 56.9,
+    "is_ai_generated": false,
+    "detection_confidence": 0.138,
+    "exif_valid": false,
+    "lighting_consistent": true,
+    "noise_variance": 256.21,
+    "artifacts_detected": [
+      "no_exif"
+    ],
+    "ground_truth_label": "fake"
+  },
+  "accessibility": {
+    "accessibility_score": 70.0,
+    "has_grab_bar": false,
+    "has_stairs": false,
+    "estimated_door_width_cm": 85,
+    "is_wheelchair_accessible": true,
+    "features_detected": [
+      "step_free"
+    ]
+  },
+  "quality": {
+    "overall_score": 57.0,
+    "lighting_score": 76.0,
+    "composition_score": 66.6,
+    "sharpness_score": 25.6,
+    "resolution_score": 15.6,
+    "trust_component": 17.1,
+    "recommendations": [
+      "Increase image sharpness/focus (+3 pts)",
+      "Wider angle would improve spaciousness perception (+2 pts)"
+    ]
+  },
+  "processing_time_s": 1.18
+}

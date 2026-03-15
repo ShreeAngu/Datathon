@@ -1,0 +1,46 @@
+{
+  "image_path": "D:\\Datathon\\property-ai-masterpiece\\dataset\\real\\small_cramped\\small_cramped_rgRAEobMmUU.jpg",
+  "spatial": {
+    "room_type": "home office",
+    "room_type_confidence": 0.1039,
+    "style": "cluttered messy",
+    "spaciousness_score": 42.9,
+    "clutter_score": 12.0,
+    "lighting_quality": 85.9,
+    "furniture_count": 5,
+    "object_count": 6
+  },
+  "authenticity": {
+    "trust_score": 67.4,
+    "is_ai_generated": false,
+    "detection_confidence": 0.348,
+    "exif_valid": false,
+    "lighting_consistent": false,
+    "noise_variance": 1465.13,
+    "artifacts_detected": [
+      "no_exif",
+      "smooth_colour_gradient"
+    ],
+    "ground_truth_label": "real"
+  },
+  "accessibility": {
+    "accessibility_score": 70.0,
+    "has_grab_bar": false,
+    "has_stairs": false,
+    "estimated_door_width_cm": 70,
+    "is_wheelchair_accessible": false,
+    "features_detected": [
+      "step_free"
+    ]
+  },
+  "quality": {
+    "overall_score": 71.5,
+    "lighting_score": 85.9,
+    "composition_score": 64.6,
+    "sharpness_score": 100.0,
+    "resolution_score": 15.6,
+    "trust_component": 20.2,
+    "recommendations": []
+  },
+  "processing_time_s": 1.22
+}

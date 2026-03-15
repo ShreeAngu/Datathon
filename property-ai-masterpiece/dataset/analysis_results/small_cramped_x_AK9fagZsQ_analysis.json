@@ -1,0 +1,49 @@
+{
+  "image_path": "D:\\Datathon\\property-ai-masterpiece\\dataset\\real\\small_cramped\\small_cramped_x_AK9fagZsQ.jpg",
+  "spatial": {
+    "room_type": "bedroom",
+    "room_type_confidence": 0.104,
+    "style": "cluttered messy",
+    "spaciousness_score": 27.1,
+    "clutter_score": 24.0,
+    "lighting_quality": 73.0,
+    "furniture_count": 8,
+    "object_count": 8
+  },
+  "authenticity": {
+    "trust_score": 56.0,
+    "is_ai_generated": false,
+    "detection_confidence": 0.12,
+    "exif_valid": false,
+    "lighting_consistent": false,
+    "noise_variance": 367.21,
+    "artifacts_detected": [
+      "no_exif",
+      "smooth_colour_gradient"
+    ],
+    "ground_truth_label": "real"
+  },
+  "accessibility": {
+    "accessibility_score": 70.0,
+    "has_grab_bar": false,
+    "has_stairs": false,
+    "estimated_door_width_cm": 56,
+    "is_wheelchair_accessible": false,
+    "features_detected": [
+      "step_free"
+    ]
+  },
+  "quality": {
+    "overall_score": 56.6,
+    "lighting_score": 73.0,
+    "composition_score": 71.0,
+    "sharpness_score": 37.2,
+    "resolution_score": 13.1,
+    "trust_component": 16.8,
+    "recommendations": [
+      "Increase image sharpness/focus (+3 pts)",
+      "Wider angle would improve spaciousness perception (+2 pts)"
+    ]
+  },
+  "processing_time_s": 1.35
+}

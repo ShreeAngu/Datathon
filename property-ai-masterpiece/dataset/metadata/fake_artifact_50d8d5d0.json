@@ -1,0 +1,13 @@
+{
+  "filename": "fake_artifact_50d8d5d0.jpg",
+  "label": "fake",
+  "source": "artifact-transform",
+  "collected_at": "2026-03-14T12:18:28.973432",
+  "source_real": "real_7jlVQPX8PLE.jpg",
+  "transforms": [
+    "gan_fingerprint",
+    "compression_artifact",
+    "metadata_strip",
+    "gaussian_blur"
+  ]
+}

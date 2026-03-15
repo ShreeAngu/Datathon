@@ -1,0 +1,12 @@
+{
+  "filename": "fake_clean_modern_744608b3.jpg",
+  "category": "clean_modern",
+  "label": "fake",
+  "source": "sdxl-local",
+  "collected_at": "2026-03-14T12:58:58.710029",
+  "lighting_condition": "good",
+  "clutter_level": "none",
+  "angle_type": "standard",
+  "accessibility_features": false,
+  "prompt": "photorealistic modern living room, natural light, 8k, interior design photography"
+}

@@ -1,0 +1,48 @@
+{
+  "image_path": "D:\\Datathon\\property-ai-masterpiece\\dataset\\real\\cluttered\\cluttered_h84uSrQ-zDw.jpg",
+  "spatial": {
+    "room_type": "bedroom",
+    "room_type_confidence": 0.1038,
+    "style": "cluttered messy",
+    "spaciousness_score": 47.3,
+    "clutter_score": 6.0,
+    "lighting_quality": 69.9,
+    "furniture_count": 3,
+    "object_count": 3
+  },
+  "authenticity": {
+    "trust_score": 46.5,
+    "is_ai_generated": false,
+    "detection_confidence": 0.07,
+    "exif_valid": false,
+    "lighting_consistent": false,
+    "noise_variance": 288.65,
+    "artifacts_detected": [
+      "no_exif",
+      "smooth_colour_gradient"
+    ],
+    "ground_truth_label": "real"
+  },
+  "accessibility": {
+    "accessibility_score": 70.0,
+    "has_grab_bar": false,
+    "has_stairs": false,
+    "estimated_door_width_cm": 19,
+    "is_wheelchair_accessible": false,
+    "features_detected": [
+      "step_free"
+    ]
+  },
+  "quality": {
+    "overall_score": 56.9,
+    "lighting_score": 69.9,
+    "composition_score": 82.9,
+    "sharpness_score": 29.1,
+    "resolution_score": 15.6,
+    "trust_component": 13.9,
+    "recommendations": [
+      "Increase image sharpness/focus (+3 pts)"
+    ]
+  },
+  "processing_time_s": 1.24
+}

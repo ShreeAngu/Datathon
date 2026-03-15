@@ -1,0 +1,49 @@
+{
+  "image_path": "D:\\Datathon\\property-ai-masterpiece\\dataset\\real\\cluttered\\cluttered_xe8ok0nR65M.jpg",
+  "spatial": {
+    "room_type": "living room",
+    "room_type_confidence": 0.1048,
+    "style": "luxury contemporary",
+    "spaciousness_score": 23.9,
+    "clutter_score": 14.0,
+    "lighting_quality": 60.7,
+    "furniture_count": 5,
+    "object_count": 7
+  },
+  "authenticity": {
+    "trust_score": 66.2,
+    "is_ai_generated": false,
+    "detection_confidence": 0.324,
+    "exif_valid": false,
+    "lighting_consistent": false,
+    "noise_variance": 638.95,
+    "artifacts_detected": [
+      "no_exif",
+      "smooth_colour_gradient"
+    ],
+    "ground_truth_label": "real"
+  },
+  "accessibility": {
+    "accessibility_score": 85.0,
+    "has_grab_bar": false,
+    "has_stairs": false,
+    "estimated_door_width_cm": 109,
+    "is_wheelchair_accessible": true,
+    "features_detected": [
+      "wide_door",
+      "step_free"
+    ]
+  },
+  "quality": {
+    "overall_score": 62.9,
+    "lighting_score": 60.7,
+    "composition_score": 84.4,
+    "sharpness_score": 64.2,
+    "resolution_score": 15.6,
+    "trust_component": 19.9,
+    "recommendations": [
+      "Wider angle would improve spaciousness perception (+2 pts)"
+    ]
+  },
+  "processing_time_s": 1.41
+}

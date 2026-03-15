@@ -1,0 +1,50 @@
+{
+  "image_path": "D:\\Datathon\\property-ai-masterpiece\\dataset\\real\\small_cramped\\small_cramped_IasufmY1eYo.jpg",
+  "spatial": {
+    "room_type": "living room",
+    "room_type_confidence": 0.1024,
+    "style": "luxury contemporary",
+    "spaciousness_score": 17.8,
+    "clutter_score": 12.0,
+    "lighting_quality": 55.9,
+    "furniture_count": 5,
+    "object_count": 6
+  },
+  "authenticity": {
+    "trust_score": 43.1,
+    "is_ai_generated": true,
+    "detection_confidence": 0.138,
+    "exif_valid": false,
+    "lighting_consistent": false,
+    "noise_variance": 310.89,
+    "artifacts_detected": [
+      "no_exif",
+      "smooth_colour_gradient"
+    ],
+    "ground_truth_label": "real"
+  },
+  "accessibility": {
+    "accessibility_score": 70.0,
+    "has_grab_bar": false,
+    "has_stairs": false,
+    "estimated_door_width_cm": 57,
+    "is_wheelchair_accessible": false,
+    "features_detected": [
+      "step_free"
+    ]
+  },
+  "quality": {
+    "overall_score": 49.4,
+    "lighting_score": 55.9,
+    "composition_score": 75.6,
+    "sharpness_score": 32.4,
+    "resolution_score": 13.1,
+    "trust_component": 12.9,
+    "recommendations": [
+      "Improve natural lighting (+5 pts)",
+      "Increase image sharpness/focus (+3 pts)",
+      "Wider angle would improve spaciousness perception (+2 pts)"
+    ]
+  },
+  "processing_time_s": 1.33
+}

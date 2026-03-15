@@ -1,0 +1,49 @@
+{
+  "image_path": "D:\\Datathon\\property-ai-masterpiece\\dataset\\real\\clean_modern\\clean_modern_lPP_zFwQS3M.jpg",
+  "spatial": {
+    "room_type": "bedroom",
+    "room_type_confidence": 0.1051,
+    "style": "luxury contemporary",
+    "spaciousness_score": 38.0,
+    "clutter_score": 32.0,
+    "lighting_quality": 77.8,
+    "furniture_count": 7,
+    "object_count": 8
+  },
+  "authenticity": {
+    "trust_score": 38.2,
+    "is_ai_generated": true,
+    "detection_confidence": 0.236,
+    "exif_valid": false,
+    "lighting_consistent": false,
+    "noise_variance": 267.35,
+    "artifacts_detected": [
+      "no_exif",
+      "smooth_colour_gradient"
+    ],
+    "ground_truth_label": "real"
+  },
+  "accessibility": {
+    "accessibility_score": 70.0,
+    "has_grab_bar": false,
+    "has_stairs": false,
+    "estimated_door_width_cm": 43,
+    "is_wheelchair_accessible": false,
+    "features_detected": [
+      "step_free"
+    ]
+  },
+  "quality": {
+    "overall_score": 50.9,
+    "lighting_score": 77.8,
+    "composition_score": 56.5,
+    "sharpness_score": 26.8,
+    "resolution_score": 15.6,
+    "trust_component": 11.5,
+    "recommendations": [
+      "Increase image sharpness/focus (+3 pts)",
+      "Wider angle would improve spaciousness perception (+2 pts)"
+    ]
+  },
+  "processing_time_s": 1.39
+}

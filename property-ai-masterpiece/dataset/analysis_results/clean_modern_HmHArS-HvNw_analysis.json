@@ -1,0 +1,46 @@
+{
+  "image_path": "D:\\Datathon\\property-ai-masterpiece\\dataset\\real\\clean_modern\\clean_modern_HmHArS-HvNw.jpg",
+  "spatial": {
+    "room_type": "living room",
+    "room_type_confidence": 0.1059,
+    "style": "luxury contemporary",
+    "spaciousness_score": 47.7,
+    "clutter_score": 34.0,
+    "lighting_quality": 81.3,
+    "furniture_count": 12,
+    "object_count": 13
+  },
+  "authenticity": {
+    "trust_score": 66.3,
+    "is_ai_generated": false,
+    "detection_confidence": 0.326,
+    "exif_valid": false,
+    "lighting_consistent": false,
+    "noise_variance": 905.51,
+    "artifacts_detected": [
+      "no_exif",
+      "smooth_colour_gradient"
+    ],
+    "ground_truth_label": "real"
+  },
+  "accessibility": {
+    "accessibility_score": 70.0,
+    "has_grab_bar": false,
+    "has_stairs": false,
+    "estimated_door_width_cm": 77,
+    "is_wheelchair_accessible": false,
+    "features_detected": [
+      "step_free"
+    ]
+  },
+  "quality": {
+    "overall_score": 69.4,
+    "lighting_score": 81.3,
+    "composition_score": 97.0,
+    "sharpness_score": 91.7,
+    "resolution_score": 17.5,
+    "trust_component": 19.9,
+    "recommendations": []
+  },
+  "processing_time_s": 1.39
+}

@@ -1,0 +1,18 @@
+{
+  "filename": "mixed_diffusion_a788d48e.jpg",
+  "category": "clean_modern",
+  "type": "fake",
+  "source": "laion-art",
+  "generator_type": "mixed-diffusion",
+  "detection_difficulty": "hard",
+  "artifact_type": "subtle-noise",
+  "lighting_condition": "bright",
+  "clutter_level": "low",
+  "angle_type": "standard",
+  "accessibility_features": false,
+  "width": 680,
+  "height": 540,
+  "collected_at": "2026-03-14T14:18:35.185503",
+  "caption": "kauai beach art - mahaulepu beach - 5x7 giclee print - hawaiian art - seascape - hawaii painting - home decor - wall art",
+  "aesthetic_score": 8.034353256225586
+}

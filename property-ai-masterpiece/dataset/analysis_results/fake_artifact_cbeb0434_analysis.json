@@ -1,0 +1,48 @@
+{
+  "image_path": "D:\\Datathon\\property-ai-masterpiece\\dataset\\fake\\fake_artifact_cbeb0434.jpg",
+  "spatial": {
+    "room_type": "dining room",
+    "room_type_confidence": 0.1043,
+    "style": "luxury contemporary",
+    "spaciousness_score": 68.0,
+    "clutter_score": 24.0,
+    "lighting_quality": 64.6,
+    "furniture_count": 12,
+    "object_count": 12
+  },
+  "authenticity": {
+    "trust_score": 58.3,
+    "is_ai_generated": false,
+    "detection_confidence": 0.166,
+    "exif_valid": false,
+    "lighting_consistent": false,
+    "noise_variance": 362.75,
+    "artifacts_detected": [
+      "no_exif",
+      "smooth_colour_gradient"
+    ],
+    "ground_truth_label": "fake"
+  },
+  "accessibility": {
+    "accessibility_score": 70.0,
+    "has_grab_bar": false,
+    "has_stairs": false,
+    "estimated_door_width_cm": 46,
+    "is_wheelchair_accessible": false,
+    "features_detected": [
+      "step_free"
+    ]
+  },
+  "quality": {
+    "overall_score": 59.4,
+    "lighting_score": 64.6,
+    "composition_score": 69.3,
+    "sharpness_score": 36.3,
+    "resolution_score": 9.5,
+    "trust_component": 17.5,
+    "recommendations": [
+      "Increase image sharpness/focus (+3 pts)"
+    ]
+  },
+  "processing_time_s": 1.72
+}

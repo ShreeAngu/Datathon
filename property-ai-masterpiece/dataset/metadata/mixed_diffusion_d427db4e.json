@@ -1,0 +1,18 @@
+{
+  "filename": "mixed_diffusion_d427db4e.jpg",
+  "category": "clean_modern",
+  "type": "fake",
+  "source": "laion-art",
+  "generator_type": "mixed-diffusion",
+  "detection_difficulty": "hard",
+  "artifact_type": "subtle-noise",
+  "lighting_condition": "bright",
+  "clutter_level": "low",
+  "angle_type": "standard",
+  "accessibility_features": false,
+  "width": 450,
+  "height": 300,
+  "collected_at": "2026-03-14T13:24:48.180485",
+  "caption": "international house-tiny camper",
+  "aesthetic_score": 8.298100471496582
+}

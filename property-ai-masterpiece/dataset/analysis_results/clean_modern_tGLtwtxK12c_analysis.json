@@ -1,0 +1,46 @@
+{
+  "image_path": "D:\\Datathon\\property-ai-masterpiece\\dataset\\real\\clean_modern\\clean_modern_tGLtwtxK12c.jpg",
+  "spatial": {
+    "room_type": "living room",
+    "room_type_confidence": 0.1051,
+    "style": "luxury contemporary",
+    "spaciousness_score": 48.6,
+    "clutter_score": 12.0,
+    "lighting_quality": 80.5,
+    "furniture_count": 5,
+    "object_count": 6
+  },
+  "authenticity": {
+    "trust_score": 61.3,
+    "is_ai_generated": false,
+    "detection_confidence": 0.226,
+    "exif_valid": false,
+    "lighting_consistent": false,
+    "noise_variance": 700.45,
+    "artifacts_detected": [
+      "no_exif",
+      "smooth_colour_gradient"
+    ],
+    "ground_truth_label": "real"
+  },
+  "accessibility": {
+    "accessibility_score": 70.0,
+    "has_grab_bar": false,
+    "has_stairs": false,
+    "estimated_door_width_cm": 44,
+    "is_wheelchair_accessible": false,
+    "features_detected": [
+      "step_free"
+    ]
+  },
+  "quality": {
+    "overall_score": 65.7,
+    "lighting_score": 80.5,
+    "composition_score": 55.4,
+    "sharpness_score": 70.4,
+    "resolution_score": 15.6,
+    "trust_component": 18.4,
+    "recommendations": []
+  },
+  "processing_time_s": 1.22
+}

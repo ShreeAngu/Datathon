@@ -1,0 +1,18 @@
+{
+  "filename": "mixed_diffusion_8133c9d1.jpg",
+  "category": "clean_modern",
+  "type": "fake",
+  "source": "laion-art",
+  "generator_type": "mixed-diffusion",
+  "detection_difficulty": "hard",
+  "artifact_type": "subtle-noise",
+  "lighting_condition": "bright",
+  "clutter_level": "low",
+  "angle_type": "standard",
+  "accessibility_features": false,
+  "width": 1024,
+  "height": 681,
+  "collected_at": "2026-03-14T14:19:05.650076",
+  "caption": "gingerbread house decorating party kara s party ideas the place for all things party",
+  "aesthetic_score": 8.856956481933594
+}

@@ -1,0 +1,48 @@
+{
+  "image_path": "D:\\Datathon\\property-ai-masterpiece\\dataset\\real\\odd_angles\\odd_angles_n5fgtBuF4w4.jpg",
+  "spatial": {
+    "room_type": "bedroom",
+    "room_type_confidence": 0.1032,
+    "style": "modern minimalist",
+    "spaciousness_score": 41.8,
+    "clutter_score": 0.0,
+    "lighting_quality": 66.0,
+    "furniture_count": 0,
+    "object_count": 0
+  },
+  "authenticity": {
+    "trust_score": 26.1,
+    "is_ai_generated": true,
+    "detection_confidence": 0.478,
+    "exif_valid": false,
+    "lighting_consistent": false,
+    "noise_variance": 130.7,
+    "artifacts_detected": [
+      "no_exif",
+      "smooth_colour_gradient"
+    ],
+    "ground_truth_label": "real"
+  },
+  "accessibility": {
+    "accessibility_score": 70.0,
+    "has_grab_bar": false,
+    "has_stairs": false,
+    "estimated_door_width_cm": 85,
+    "is_wheelchair_accessible": true,
+    "features_detected": [
+      "step_free"
+    ]
+  },
+  "quality": {
+    "overall_score": 47.1,
+    "lighting_score": 66.0,
+    "composition_score": 53.4,
+    "sharpness_score": 13.1,
+    "resolution_score": 17.5,
+    "trust_component": 7.8,
+    "recommendations": [
+      "Increase image sharpness/focus (+3 pts)"
+    ]
+  },
+  "processing_time_s": 1.33
+}

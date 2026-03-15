@@ -1,0 +1,48 @@
+{
+  "image_path": "D:\\Datathon\\property-ai-masterpiece\\dataset\\real\\clean_modern\\clean_modern__4uaR9lW3PA.jpg",
+  "spatial": {
+    "room_type": "bedroom",
+    "room_type_confidence": 0.1023,
+    "style": "modern minimalist",
+    "spaciousness_score": 40.2,
+    "clutter_score": 0.0,
+    "lighting_quality": 77.3,
+    "furniture_count": 0,
+    "object_count": 0
+  },
+  "authenticity": {
+    "trust_score": 22.6,
+    "is_ai_generated": true,
+    "detection_confidence": 0.548,
+    "exif_valid": false,
+    "lighting_consistent": false,
+    "noise_variance": 105.8,
+    "artifacts_detected": [
+      "no_exif",
+      "smooth_colour_gradient"
+    ],
+    "ground_truth_label": "real"
+  },
+  "accessibility": {
+    "accessibility_score": 70.0,
+    "has_grab_bar": false,
+    "has_stairs": false,
+    "estimated_door_width_cm": 85,
+    "is_wheelchair_accessible": true,
+    "features_detected": [
+      "step_free"
+    ]
+  },
+  "quality": {
+    "overall_score": 48.1,
+    "lighting_score": 77.3,
+    "composition_score": 60.2,
+    "sharpness_score": 10.6,
+    "resolution_score": 15.6,
+    "trust_component": 6.8,
+    "recommendations": [
+      "Increase image sharpness/focus (+3 pts)"
+    ]
+  },
+  "processing_time_s": 1.36
+}

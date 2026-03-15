@@ -1,0 +1,48 @@
+{
+  "image_path": "D:\\Datathon\\property-ai-masterpiece\\dataset\\uploads\\c1e0e339-2951-4590-98bd-f75794f5da21_WhatsApp Image 2026-03-14 at 9.58.13 AM.jpeg",
+  "spatial": {
+    "room_type": "kitchen",
+    "room_type_confidence": 0.1064,
+    "style": "cluttered messy",
+    "spaciousness_score": 40.6,
+    "clutter_score": 74.0,
+    "lighting_quality": 77.7,
+    "furniture_count": 1,
+    "object_count": 9
+  },
+  "authenticity": {
+    "trust_score": 66.2,
+    "is_ai_generated": false,
+    "detection_confidence": 0.324,
+    "exif_valid": false,
+    "lighting_consistent": false,
+    "noise_variance": 2125.47,
+    "artifacts_detected": [
+      "no_exif",
+      "smooth_colour_gradient"
+    ],
+    "ground_truth_label": null
+  },
+  "accessibility": {
+    "accessibility_score": 70.0,
+    "has_grab_bar": false,
+    "has_stairs": false,
+    "estimated_door_width_cm": 25,
+    "is_wheelchair_accessible": false,
+    "features_detected": [
+      "step_free"
+    ]
+  },
+  "quality": {
+    "overall_score": 64.2,
+    "lighting_score": 77.7,
+    "composition_score": 100.0,
+    "sharpness_score": 100.0,
+    "resolution_score": 3.0,
+    "trust_component": 19.9,
+    "recommendations": [
+      "Reduce clutter in foreground (+4 pts)"
+    ]
+  },
+  "processing_time_s": 1.3
+}

@@ -1,0 +1,49 @@
+{
+  "image_path": "D:\\Datathon\\property-ai-masterpiece\\dataset\\real\\old_outdated\\old_outdated_FY18mAqibxA.jpg",
+  "spatial": {
+    "room_type": "dining room",
+    "room_type_confidence": 0.1035,
+    "style": "farmhouse",
+    "spaciousness_score": 47.5,
+    "clutter_score": 12.0,
+    "lighting_quality": 52.2,
+    "furniture_count": 6,
+    "object_count": 6
+  },
+  "authenticity": {
+    "trust_score": 29.4,
+    "is_ai_generated": true,
+    "detection_confidence": 0.412,
+    "exif_valid": false,
+    "lighting_consistent": false,
+    "noise_variance": 180.69,
+    "artifacts_detected": [
+      "no_exif",
+      "smooth_colour_gradient"
+    ],
+    "ground_truth_label": "real"
+  },
+  "accessibility": {
+    "accessibility_score": 70.0,
+    "has_grab_bar": false,
+    "has_stairs": false,
+    "estimated_door_width_cm": 74,
+    "is_wheelchair_accessible": false,
+    "features_detected": [
+      "step_free"
+    ]
+  },
+  "quality": {
+    "overall_score": 44.8,
+    "lighting_score": 52.2,
+    "composition_score": 48.9,
+    "sharpness_score": 18.2,
+    "resolution_score": 15.5,
+    "trust_component": 8.8,
+    "recommendations": [
+      "Improve natural lighting (+5 pts)",
+      "Increase image sharpness/focus (+3 pts)"
+    ]
+  },
+  "processing_time_s": 1.36
+}

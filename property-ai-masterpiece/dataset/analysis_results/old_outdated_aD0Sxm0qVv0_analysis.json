@@ -1,0 +1,48 @@
+{
+  "image_path": "D:\\Datathon\\property-ai-masterpiece\\dataset\\real\\old_outdated\\old_outdated_aD0Sxm0qVv0.jpg",
+  "spatial": {
+    "room_type": "living room",
+    "room_type_confidence": 0.1036,
+    "style": "farmhouse",
+    "spaciousness_score": 36.7,
+    "clutter_score": 20.0,
+    "lighting_quality": 68.9,
+    "furniture_count": 10,
+    "object_count": 10
+  },
+  "authenticity": {
+    "trust_score": 65.7,
+    "is_ai_generated": false,
+    "detection_confidence": 0.314,
+    "exif_valid": false,
+    "lighting_consistent": false,
+    "noise_variance": 492.58,
+    "artifacts_detected": [
+      "no_exif",
+      "smooth_colour_gradient"
+    ],
+    "ground_truth_label": "real"
+  },
+  "accessibility": {
+    "accessibility_score": 70.0,
+    "has_grab_bar": false,
+    "has_stairs": false,
+    "estimated_door_width_cm": 10,
+    "is_wheelchair_accessible": false,
+    "features_detected": [
+      "step_free"
+    ]
+  },
+  "quality": {
+    "overall_score": 62.6,
+    "lighting_score": 68.9,
+    "composition_score": 92.1,
+    "sharpness_score": 49.3,
+    "resolution_score": 17.1,
+    "trust_component": 19.7,
+    "recommendations": [
+      "Wider angle would improve spaciousness perception (+2 pts)"
+    ]
+  },
+  "processing_time_s": 1.35
+}

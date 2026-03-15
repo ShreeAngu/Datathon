@@ -1,0 +1,48 @@
+{
+  "image_path": "D:\\Datathon\\property-ai-masterpiece\\dataset\\real\\small_cramped\\small_cramped_kepEKYk94m4.jpg",
+  "spatial": {
+    "room_type": "home office",
+    "room_type_confidence": 0.1025,
+    "style": "luxury contemporary",
+    "spaciousness_score": 42.2,
+    "clutter_score": 4.0,
+    "lighting_quality": 74.9,
+    "furniture_count": 2,
+    "object_count": 2
+  },
+  "authenticity": {
+    "trust_score": 49.6,
+    "is_ai_generated": false,
+    "detection_confidence": 0.008,
+    "exif_valid": false,
+    "lighting_consistent": false,
+    "noise_variance": 350.72,
+    "artifacts_detected": [
+      "no_exif",
+      "smooth_colour_gradient"
+    ],
+    "ground_truth_label": "real"
+  },
+  "accessibility": {
+    "accessibility_score": 70.0,
+    "has_grab_bar": false,
+    "has_stairs": false,
+    "estimated_door_width_cm": 63,
+    "is_wheelchair_accessible": false,
+    "features_detected": [
+      "step_free"
+    ]
+  },
+  "quality": {
+    "overall_score": 58.0,
+    "lighting_score": 74.9,
+    "composition_score": 58.9,
+    "sharpness_score": 35.3,
+    "resolution_score": 17.0,
+    "trust_component": 14.9,
+    "recommendations": [
+      "Increase image sharpness/focus (+3 pts)"
+    ]
+  },
+  "processing_time_s": 1.12
+}

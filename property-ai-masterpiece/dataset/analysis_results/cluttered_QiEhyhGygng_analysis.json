@@ -1,0 +1,49 @@
+{
+  "image_path": "D:\\Datathon\\property-ai-masterpiece\\dataset\\real\\cluttered\\cluttered_QiEhyhGygng.jpg",
+  "spatial": {
+    "room_type": "kitchen",
+    "room_type_confidence": 0.1074,
+    "style": "industrial",
+    "spaciousness_score": 49.9,
+    "clutter_score": 32.0,
+    "lighting_quality": 59.5,
+    "furniture_count": 0,
+    "object_count": 4
+  },
+  "authenticity": {
+    "trust_score": 31.7,
+    "is_ai_generated": true,
+    "detection_confidence": 0.366,
+    "exif_valid": false,
+    "lighting_consistent": false,
+    "noise_variance": 208.36,
+    "artifacts_detected": [
+      "no_exif",
+      "smooth_colour_gradient"
+    ],
+    "ground_truth_label": "real"
+  },
+  "accessibility": {
+    "accessibility_score": 70.0,
+    "has_grab_bar": false,
+    "has_stairs": false,
+    "estimated_door_width_cm": 21,
+    "is_wheelchair_accessible": false,
+    "features_detected": [
+      "step_free"
+    ]
+  },
+  "quality": {
+    "overall_score": 46.8,
+    "lighting_score": 59.5,
+    "composition_score": 75.2,
+    "sharpness_score": 21.1,
+    "resolution_score": 15.6,
+    "trust_component": 9.5,
+    "recommendations": [
+      "Improve natural lighting (+5 pts)",
+      "Increase image sharpness/focus (+3 pts)"
+    ]
+  },
+  "processing_time_s": 1.41
+}

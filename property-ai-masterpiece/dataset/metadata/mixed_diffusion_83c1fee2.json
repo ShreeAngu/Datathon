@@ -1,0 +1,18 @@
+{
+  "filename": "mixed_diffusion_83c1fee2.jpg",
+  "category": "clean_modern",
+  "type": "fake",
+  "source": "laion-art",
+  "generator_type": "mixed-diffusion",
+  "detection_difficulty": "hard",
+  "artifact_type": "subtle-noise",
+  "lighting_condition": "bright",
+  "clutter_level": "low",
+  "angle_type": "standard",
+  "accessibility_features": false,
+  "width": 1200,
+  "height": 1600,
+  "collected_at": "2026-03-14T13:24:00.859322",
+  "caption": "vintage wood kitchen cabinets antique kitchen cabinets with flour bin antiqued kitchen cabinets pictures and photos",
+  "aesthetic_score": 8.257431030273438
+}

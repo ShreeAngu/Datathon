@@ -1,0 +1,46 @@
+{
+  "image_path": "D:\\Datathon\\property-ai-masterpiece\\dataset\\real\\architectural\\architectural_eUaLNSb5LA8.jpg",
+  "spatial": {
+    "room_type": "garage",
+    "room_type_confidence": 0.107,
+    "style": "luxury contemporary",
+    "spaciousness_score": 48.2,
+    "clutter_score": 28.0,
+    "lighting_quality": 69.9,
+    "furniture_count": 4,
+    "object_count": 14
+  },
+  "authenticity": {
+    "trust_score": 66.7,
+    "is_ai_generated": false,
+    "detection_confidence": 0.334,
+    "exif_valid": false,
+    "lighting_consistent": false,
+    "noise_variance": 951.99,
+    "artifacts_detected": [
+      "no_exif",
+      "smooth_colour_gradient"
+    ],
+    "ground_truth_label": "real"
+  },
+  "accessibility": {
+    "accessibility_score": 70.0,
+    "has_grab_bar": false,
+    "has_stairs": false,
+    "estimated_door_width_cm": 31,
+    "is_wheelchair_accessible": false,
+    "features_detected": [
+      "step_free"
+    ]
+  },
+  "quality": {
+    "overall_score": 68.4,
+    "lighting_score": 69.9,
+    "composition_score": 100.0,
+    "sharpness_score": 96.6,
+    "resolution_score": 15.6,
+    "trust_component": 20.0,
+    "recommendations": []
+  },
+  "processing_time_s": 1.3
+}

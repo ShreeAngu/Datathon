@@ -1,0 +1,8 @@
+{
+  "source": "FatimahEmadEldin/genai-manipulation-detection-interior",
+  "type": "fake",
+  "label": "fake",
+  "manipulation_category": "compression_artifact",
+  "manipulation_technique": "double_jpeg",
+  "pair_id": 33
+}

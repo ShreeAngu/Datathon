@@ -1,0 +1,48 @@
+{
+  "image_path": "D:\\Datathon\\property-ai-masterpiece\\dataset\\fake\\mixed_diffusion_e9dedb4f.jpg",
+  "spatial": {
+    "room_type": "kitchen",
+    "room_type_confidence": 0.1026,
+    "style": "bohemian",
+    "spaciousness_score": 35.1,
+    "clutter_score": 10.0,
+    "lighting_quality": 71.8,
+    "furniture_count": 5,
+    "object_count": 5
+  },
+  "authenticity": {
+    "trust_score": 65.5,
+    "is_ai_generated": false,
+    "detection_confidence": 0.31,
+    "exif_valid": false,
+    "lighting_consistent": false,
+    "noise_variance": 895.54,
+    "artifacts_detected": [
+      "no_exif",
+      "smooth_colour_gradient"
+    ],
+    "ground_truth_label": "fake"
+  },
+  "accessibility": {
+    "accessibility_score": 70.0,
+    "has_grab_bar": false,
+    "has_stairs": false,
+    "estimated_door_width_cm": 85,
+    "is_wheelchair_accessible": true,
+    "features_detected": [
+      "step_free"
+    ]
+  },
+  "quality": {
+    "overall_score": 68.1,
+    "lighting_score": 71.8,
+    "composition_score": 100.0,
+    "sharpness_score": 89.7,
+    "resolution_score": 12.7,
+    "trust_component": 19.6,
+    "recommendations": [
+      "Wider angle would improve spaciousness perception (+2 pts)"
+    ]
+  },
+  "processing_time_s": 1.27
+}

@@ -1,0 +1,18 @@
+{
+  "filename": "mixed_diffusion_4d5cc3ad.jpg",
+  "category": "clean_modern",
+  "type": "fake",
+  "source": "laion-art",
+  "generator_type": "mixed-diffusion",
+  "detection_difficulty": "hard",
+  "artifact_type": "subtle-noise",
+  "lighting_condition": "bright",
+  "clutter_level": "low",
+  "angle_type": "standard",
+  "accessibility_features": false,
+  "width": 640,
+  "height": 960,
+  "collected_at": "2026-03-14T13:24:47.363999",
+  "caption": "#bike #motorbike #caferacer #honda #custom #caf\u00e8 #hondacb750f #moto #customizer #fmw #fugarmetalworker #photography #bla",
+  "aesthetic_score": 8.120771408081055
+}

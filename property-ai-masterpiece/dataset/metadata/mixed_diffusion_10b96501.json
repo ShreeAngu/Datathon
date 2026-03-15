@@ -1,0 +1,18 @@
+{
+  "filename": "mixed_diffusion_10b96501.jpg",
+  "category": "clean_modern",
+  "type": "fake",
+  "source": "laion-art",
+  "generator_type": "mixed-diffusion",
+  "detection_difficulty": "hard",
+  "artifact_type": "subtle-noise",
+  "lighting_condition": "bright",
+  "clutter_level": "low",
+  "angle_type": "standard",
+  "accessibility_features": false,
+  "width": 450,
+  "height": 300,
+  "collected_at": "2026-03-14T13:24:47.774802",
+  "caption": "homemade butter cookies and coffee stock photo",
+  "aesthetic_score": 8.278929710388184
+}

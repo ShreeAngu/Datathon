@@ -1,0 +1,49 @@
+{
+  "image_path": "D:\\Datathon\\property-ai-masterpiece\\dataset\\real\\old_outdated\\old_outdated_-arHnjrOy_0.jpg",
+  "spatial": {
+    "room_type": "kitchen",
+    "room_type_confidence": 0.106,
+    "style": "luxury contemporary",
+    "spaciousness_score": 31.4,
+    "clutter_score": 4.0,
+    "lighting_quality": 69.5,
+    "furniture_count": 1,
+    "object_count": 2
+  },
+  "authenticity": {
+    "trust_score": 47.2,
+    "is_ai_generated": false,
+    "detection_confidence": 0.056,
+    "exif_valid": false,
+    "lighting_consistent": false,
+    "noise_variance": 266.72,
+    "artifacts_detected": [
+      "no_exif",
+      "smooth_colour_gradient"
+    ],
+    "ground_truth_label": "real"
+  },
+  "accessibility": {
+    "accessibility_score": 70.0,
+    "has_grab_bar": false,
+    "has_stairs": false,
+    "estimated_door_width_cm": 68,
+    "is_wheelchair_accessible": false,
+    "features_detected": [
+      "step_free"
+    ]
+  },
+  "quality": {
+    "overall_score": 54.8,
+    "lighting_score": 69.5,
+    "composition_score": 71.2,
+    "sharpness_score": 27.0,
+    "resolution_score": 15.6,
+    "trust_component": 14.2,
+    "recommendations": [
+      "Increase image sharpness/focus (+3 pts)",
+      "Wider angle would improve spaciousness perception (+2 pts)"
+    ]
+  },
+  "processing_time_s": 1.4
+}

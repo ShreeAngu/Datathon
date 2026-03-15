@@ -1,0 +1,49 @@
+{
+  "image_path": "D:\\Datathon\\property-ai-masterpiece\\dataset\\real\\old_outdated\\old_outdated_l_diWJ_LHQs.jpg",
+  "spatial": {
+    "room_type": "home office",
+    "room_type_confidence": 0.1012,
+    "style": "farmhouse",
+    "spaciousness_score": 55.5,
+    "clutter_score": 4.0,
+    "lighting_quality": 58.2,
+    "furniture_count": 1,
+    "object_count": 2
+  },
+  "authenticity": {
+    "trust_score": 50.1,
+    "is_ai_generated": false,
+    "detection_confidence": 0.002,
+    "exif_valid": false,
+    "lighting_consistent": false,
+    "noise_variance": 293.06,
+    "artifacts_detected": [
+      "no_exif",
+      "smooth_colour_gradient"
+    ],
+    "ground_truth_label": "real"
+  },
+  "accessibility": {
+    "accessibility_score": 70.0,
+    "has_grab_bar": false,
+    "has_stairs": false,
+    "estimated_door_width_cm": 52,
+    "is_wheelchair_accessible": false,
+    "features_detected": [
+      "step_free"
+    ]
+  },
+  "quality": {
+    "overall_score": 56.8,
+    "lighting_score": 58.2,
+    "composition_score": 85.2,
+    "sharpness_score": 29.6,
+    "resolution_score": 15.6,
+    "trust_component": 15.0,
+    "recommendations": [
+      "Improve natural lighting (+5 pts)",
+      "Increase image sharpness/focus (+3 pts)"
+    ]
+  },
+  "processing_time_s": 1.39
+}

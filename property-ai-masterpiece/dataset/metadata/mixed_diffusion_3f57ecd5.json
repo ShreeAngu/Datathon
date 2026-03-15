@@ -1,0 +1,18 @@
+{
+  "filename": "mixed_diffusion_3f57ecd5.jpg",
+  "category": "clean_modern",
+  "type": "fake",
+  "source": "laion-art",
+  "generator_type": "mixed-diffusion",
+  "detection_difficulty": "hard",
+  "artifact_type": "subtle-noise",
+  "lighting_condition": "bright",
+  "clutter_level": "low",
+  "angle_type": "standard",
+  "accessibility_features": false,
+  "width": 450,
+  "height": 300,
+  "collected_at": "2026-03-14T14:19:03.136138",
+  "caption": "rent in ski resort r\u00e9sidence lagrange le grand panorama 2 - valmeinier - living room",
+  "aesthetic_score": 8.799652099609375
+}

@@ -1,0 +1,46 @@
+{
+  "image_path": "D:\\Datathon\\property-ai-masterpiece\\dataset\\fake\\mixed_diffusion_786a2c18.jpg",
+  "spatial": {
+    "room_type": "kitchen",
+    "room_type_confidence": 0.1033,
+    "style": "farmhouse",
+    "spaciousness_score": 61.0,
+    "clutter_score": 8.0,
+    "lighting_quality": 94.4,
+    "furniture_count": 3,
+    "object_count": 4
+  },
+  "authenticity": {
+    "trust_score": 67.4,
+    "is_ai_generated": false,
+    "detection_confidence": 0.348,
+    "exif_valid": false,
+    "lighting_consistent": false,
+    "noise_variance": 721.19,
+    "artifacts_detected": [
+      "no_exif",
+      "smooth_colour_gradient"
+    ],
+    "ground_truth_label": "fake"
+  },
+  "accessibility": {
+    "accessibility_score": 70.0,
+    "has_grab_bar": false,
+    "has_stairs": false,
+    "estimated_door_width_cm": 41,
+    "is_wheelchair_accessible": false,
+    "features_detected": [
+      "step_free"
+    ]
+  },
+  "quality": {
+    "overall_score": 74.6,
+    "lighting_score": 94.4,
+    "composition_score": 99.8,
+    "sharpness_score": 72.6,
+    "resolution_score": 20.0,
+    "trust_component": 20.2,
+    "recommendations": []
+  },
+  "processing_time_s": 1.01
+}

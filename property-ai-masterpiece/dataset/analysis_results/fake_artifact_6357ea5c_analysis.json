@@ -1,0 +1,46 @@
+{
+  "image_path": "D:\\Datathon\\property-ai-masterpiece\\dataset\\fake\\fake_artifact_6357ea5c.jpg",
+  "spatial": {
+    "room_type": "staircase",
+    "room_type_confidence": 0.1048,
+    "style": "luxury contemporary",
+    "spaciousness_score": 54.0,
+    "clutter_score": 0.0,
+    "lighting_quality": 70.4,
+    "furniture_count": 0,
+    "object_count": 0
+  },
+  "authenticity": {
+    "trust_score": 68.9,
+    "is_ai_generated": false,
+    "detection_confidence": 0.378,
+    "exif_valid": false,
+    "lighting_consistent": false,
+    "noise_variance": 1167.1,
+    "artifacts_detected": [
+      "no_exif",
+      "smooth_colour_gradient"
+    ],
+    "ground_truth_label": "fake"
+  },
+  "accessibility": {
+    "accessibility_score": 70.0,
+    "has_grab_bar": false,
+    "has_stairs": false,
+    "estimated_door_width_cm": 85,
+    "is_wheelchair_accessible": true,
+    "features_detected": [
+      "step_free"
+    ]
+  },
+  "quality": {
+    "overall_score": 72.8,
+    "lighting_score": 70.4,
+    "composition_score": 95.4,
+    "sharpness_score": 100.0,
+    "resolution_score": 17.5,
+    "trust_component": 20.7,
+    "recommendations": []
+  },
+  "processing_time_s": 1.1
+}

@@ -1,0 +1,48 @@
+{
+  "image_path": "D:\\Datathon\\property-ai-masterpiece\\dataset\\real\\clean_modern\\clean_modern_023anTXoe0Q.jpg",
+  "spatial": {
+    "room_type": "living room",
+    "room_type_confidence": 0.1033,
+    "style": "luxury contemporary",
+    "spaciousness_score": 36.8,
+    "clutter_score": 18.0,
+    "lighting_quality": 83.5,
+    "furniture_count": 9,
+    "object_count": 9
+  },
+  "authenticity": {
+    "trust_score": 59.1,
+    "is_ai_generated": false,
+    "detection_confidence": 0.182,
+    "exif_valid": false,
+    "lighting_consistent": false,
+    "noise_variance": 459.34,
+    "artifacts_detected": [
+      "no_exif",
+      "smooth_colour_gradient"
+    ],
+    "ground_truth_label": "real"
+  },
+  "accessibility": {
+    "accessibility_score": 70.0,
+    "has_grab_bar": false,
+    "has_stairs": false,
+    "estimated_door_width_cm": 31,
+    "is_wheelchair_accessible": false,
+    "features_detected": [
+      "step_free"
+    ]
+  },
+  "quality": {
+    "overall_score": 62.7,
+    "lighting_score": 83.5,
+    "composition_score": 81.1,
+    "sharpness_score": 45.9,
+    "resolution_score": 15.6,
+    "trust_component": 17.7,
+    "recommendations": [
+      "Wider angle would improve spaciousness perception (+2 pts)"
+    ]
+  },
+  "processing_time_s": 1.2
+}

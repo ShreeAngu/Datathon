@@ -1,0 +1,48 @@
+{
+  "image_path": "D:\\Datathon\\property-ai-masterpiece\\dataset\\real\\accessibility\\accessibility_3n_h3ligz78.jpg",
+  "spatial": {
+    "room_type": "bathroom",
+    "room_type_confidence": 0.1036,
+    "style": "luxury contemporary",
+    "spaciousness_score": 37.0,
+    "clutter_score": 6.0,
+    "lighting_quality": 74.4,
+    "furniture_count": 0,
+    "object_count": 3
+  },
+  "authenticity": {
+    "trust_score": 62.2,
+    "is_ai_generated": false,
+    "detection_confidence": 0.244,
+    "exif_valid": false,
+    "lighting_consistent": false,
+    "noise_variance": 504.37,
+    "artifacts_detected": [
+      "no_exif",
+      "smooth_colour_gradient"
+    ],
+    "ground_truth_label": "real"
+  },
+  "accessibility": {
+    "accessibility_score": 70.0,
+    "has_grab_bar": false,
+    "has_stairs": false,
+    "estimated_door_width_cm": 31,
+    "is_wheelchair_accessible": false,
+    "features_detected": [
+      "step_free"
+    ]
+  },
+  "quality": {
+    "overall_score": 62.5,
+    "lighting_score": 74.4,
+    "composition_score": 61.2,
+    "sharpness_score": 50.5,
+    "resolution_score": 15.6,
+    "trust_component": 18.7,
+    "recommendations": [
+      "Wider angle would improve spaciousness perception (+2 pts)"
+    ]
+  },
+  "processing_time_s": 1.34
+}

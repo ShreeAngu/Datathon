@@ -1,0 +1,47 @@
+{
+  "image_path": "D:\\Datathon\\property-ai-masterpiece\\dataset\\real\\small_cramped\\small_cramped_0ikRDEtOA_U.jpg",
+  "spatial": {
+    "room_type": "living room",
+    "room_type_confidence": 0.104,
+    "style": "cluttered messy",
+    "spaciousness_score": 45.6,
+    "clutter_score": 12.0,
+    "lighting_quality": 52.9,
+    "furniture_count": 6,
+    "object_count": 6
+  },
+  "authenticity": {
+    "trust_score": 65.6,
+    "is_ai_generated": false,
+    "detection_confidence": 0.312,
+    "exif_valid": false,
+    "lighting_consistent": true,
+    "noise_variance": 614.22,
+    "artifacts_detected": [
+      "no_exif"
+    ],
+    "ground_truth_label": "real"
+  },
+  "accessibility": {
+    "accessibility_score": 70.0,
+    "has_grab_bar": false,
+    "has_stairs": false,
+    "estimated_door_width_cm": 37,
+    "is_wheelchair_accessible": false,
+    "features_detected": [
+      "step_free"
+    ]
+  },
+  "quality": {
+    "overall_score": 61.0,
+    "lighting_score": 52.9,
+    "composition_score": 68.3,
+    "sharpness_score": 61.9,
+    "resolution_score": 15.6,
+    "trust_component": 19.7,
+    "recommendations": [
+      "Improve natural lighting (+5 pts)"
+    ]
+  },
+  "processing_time_s": 1.3
+}

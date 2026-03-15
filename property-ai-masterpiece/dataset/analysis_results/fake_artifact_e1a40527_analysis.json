@@ -1,0 +1,49 @@
+{
+  "image_path": "D:\\Datathon\\property-ai-masterpiece\\dataset\\fake\\fake_artifact_e1a40527.jpg",
+  "spatial": {
+    "room_type": "staircase",
+    "room_type_confidence": 0.1086,
+    "style": "modern minimalist",
+    "spaciousness_score": 30.4,
+    "clutter_score": 4.0,
+    "lighting_quality": 73.3,
+    "furniture_count": 0,
+    "object_count": 2
+  },
+  "authenticity": {
+    "trust_score": 39.1,
+    "is_ai_generated": true,
+    "detection_confidence": 0.218,
+    "exif_valid": false,
+    "lighting_consistent": false,
+    "noise_variance": 75.38,
+    "artifacts_detected": [
+      "no_exif",
+      "smooth_colour_gradient"
+    ],
+    "ground_truth_label": "fake"
+  },
+  "accessibility": {
+    "accessibility_score": 70.0,
+    "has_grab_bar": false,
+    "has_stairs": false,
+    "estimated_door_width_cm": 85,
+    "is_wheelchair_accessible": true,
+    "features_detected": [
+      "step_free"
+    ]
+  },
+  "quality": {
+    "overall_score": 50.2,
+    "lighting_score": 73.3,
+    "composition_score": 49.7,
+    "sharpness_score": 7.7,
+    "resolution_score": 17.5,
+    "trust_component": 11.7,
+    "recommendations": [
+      "Increase image sharpness/focus (+3 pts)",
+      "Wider angle would improve spaciousness perception (+2 pts)"
+    ]
+  },
+  "processing_time_s": 1.17
+}

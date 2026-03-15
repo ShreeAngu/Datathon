@@ -1,0 +1,46 @@
+{
+  "image_path": "D:\\Datathon\\property-ai-masterpiece\\dataset\\real\\clean_modern\\clean_modern_PIO092tQcZE.jpg",
+  "spatial": {
+    "room_type": "bedroom",
+    "room_type_confidence": 0.1023,
+    "style": "luxury contemporary",
+    "spaciousness_score": 63.6,
+    "clutter_score": 0.0,
+    "lighting_quality": 78.2,
+    "furniture_count": 0,
+    "object_count": 0
+  },
+  "authenticity": {
+    "trust_score": 60.6,
+    "is_ai_generated": false,
+    "detection_confidence": 0.212,
+    "exif_valid": false,
+    "lighting_consistent": false,
+    "noise_variance": 425.83,
+    "artifacts_detected": [
+      "no_exif",
+      "smooth_colour_gradient"
+    ],
+    "ground_truth_label": "real"
+  },
+  "accessibility": {
+    "accessibility_score": 70.0,
+    "has_grab_bar": false,
+    "has_stairs": false,
+    "estimated_door_width_cm": 85,
+    "is_wheelchair_accessible": true,
+    "features_detected": [
+      "step_free"
+    ]
+  },
+  "quality": {
+    "overall_score": 67.1,
+    "lighting_score": 78.2,
+    "composition_score": 97.4,
+    "sharpness_score": 42.5,
+    "resolution_score": 15.6,
+    "trust_component": 18.2,
+    "recommendations": []
+  },
+  "processing_time_s": 1.26
+}

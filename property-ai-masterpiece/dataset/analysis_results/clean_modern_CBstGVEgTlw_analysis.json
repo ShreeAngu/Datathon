@@ -1,0 +1,48 @@
+{
+  "image_path": "D:\\Datathon\\property-ai-masterpiece\\dataset\\real\\clean_modern\\clean_modern_CBstGVEgTlw.jpg",
+  "spatial": {
+    "room_type": "bedroom",
+    "room_type_confidence": 0.1027,
+    "style": "luxury contemporary",
+    "spaciousness_score": 46.0,
+    "clutter_score": 2.0,
+    "lighting_quality": 64.4,
+    "furniture_count": 1,
+    "object_count": 1
+  },
+  "authenticity": {
+    "trust_score": 51.1,
+    "is_ai_generated": false,
+    "detection_confidence": 0.022,
+    "exif_valid": false,
+    "lighting_consistent": false,
+    "noise_variance": 360.49,
+    "artifacts_detected": [
+      "no_exif",
+      "smooth_colour_gradient"
+    ],
+    "ground_truth_label": "real"
+  },
+  "accessibility": {
+    "accessibility_score": 70.0,
+    "has_grab_bar": false,
+    "has_stairs": false,
+    "estimated_door_width_cm": 85,
+    "is_wheelchair_accessible": true,
+    "features_detected": [
+      "step_free"
+    ]
+  },
+  "quality": {
+    "overall_score": 57.9,
+    "lighting_score": 64.4,
+    "composition_score": 75.4,
+    "sharpness_score": 36.3,
+    "resolution_score": 17.5,
+    "trust_component": 15.3,
+    "recommendations": [
+      "Increase image sharpness/focus (+3 pts)"
+    ]
+  },
+  "processing_time_s": 1.37
+}

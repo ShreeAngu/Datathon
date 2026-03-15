@@ -1,0 +1,18 @@
+{
+  "real": {
+    "clean_modern:modern living room interior design": 5,
+    "cluttered:messy bedroom clothes floor": 2,
+    "cluttered:cluttered home office papers": 2,
+    "cluttered:untidy living room": 2,
+    "cluttered:dirty kitchen counters": 2,
+    "cluttered:hoarding room interior": 2,
+    "poor_lighting:dark room interior night": 3,
+    "odd_angles:room interior wide angle lens": 3,
+    "old_outdated:old house interior vintage": 3,
+    "small_cramped:tiny apartment studio interior": 3,
+    "accessibility:bathroom grab bar accessibility": 3,
+    "architectural:exposed brick wall interior": 2,
+    "architectural:hardwood floor detail interior": 2
+  },
+  "fake_done": 2
+}

@@ -1,0 +1,48 @@
+{
+  "image_path": "D:\\Datathon\\property-ai-masterpiece\\dataset\\real\\poor_lighting\\poor_lighting_GIvRMjyZ3VI.jpg",
+  "spatial": {
+    "room_type": "hallway",
+    "room_type_confidence": 0.1026,
+    "style": "modern minimalist",
+    "spaciousness_score": 50.4,
+    "clutter_score": 0.0,
+    "lighting_quality": 13.1,
+    "furniture_count": 0,
+    "object_count": 0
+  },
+  "authenticity": {
+    "trust_score": 50.2,
+    "is_ai_generated": false,
+    "detection_confidence": 0.004,
+    "exif_valid": false,
+    "lighting_consistent": false,
+    "noise_variance": 408.39,
+    "artifacts_detected": [
+      "no_exif",
+      "smooth_colour_gradient"
+    ],
+    "ground_truth_label": "real"
+  },
+  "accessibility": {
+    "accessibility_score": 70.0,
+    "has_grab_bar": false,
+    "has_stairs": false,
+    "estimated_door_width_cm": 85,
+    "is_wheelchair_accessible": true,
+    "features_detected": [
+      "step_free"
+    ]
+  },
+  "quality": {
+    "overall_score": 48.2,
+    "lighting_score": 13.1,
+    "composition_score": 71.9,
+    "sharpness_score": 41.0,
+    "resolution_score": 15.6,
+    "trust_component": 15.1,
+    "recommendations": [
+      "Improve natural lighting (+5 pts)"
+    ]
+  },
+  "processing_time_s": 1.24
+}

@@ -1,0 +1,8 @@
+{
+  "source": "FatimahEmadEldin/genai-manipulation-detection-interior",
+  "type": "fake",
+  "label": "fake",
+  "manipulation_category": "splicing",
+  "manipulation_technique": "object_insertion",
+  "pair_id": 387
+}

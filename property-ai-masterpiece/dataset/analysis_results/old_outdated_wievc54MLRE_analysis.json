@@ -1,0 +1,48 @@
+{
+  "image_path": "D:\\Datathon\\property-ai-masterpiece\\dataset\\real\\old_outdated\\old_outdated_wievc54MLRE.jpg",
+  "spatial": {
+    "room_type": "dining room",
+    "room_type_confidence": 0.103,
+    "style": "luxury contemporary",
+    "spaciousness_score": 58.7,
+    "clutter_score": 10.0,
+    "lighting_quality": 60.7,
+    "furniture_count": 5,
+    "object_count": 5
+  },
+  "authenticity": {
+    "trust_score": 36.4,
+    "is_ai_generated": true,
+    "detection_confidence": 0.272,
+    "exif_valid": false,
+    "lighting_consistent": false,
+    "noise_variance": 243.49,
+    "artifacts_detected": [
+      "no_exif",
+      "smooth_colour_gradient"
+    ],
+    "ground_truth_label": "real"
+  },
+  "accessibility": {
+    "accessibility_score": 70.0,
+    "has_grab_bar": false,
+    "has_stairs": false,
+    "estimated_door_width_cm": 43,
+    "is_wheelchair_accessible": false,
+    "features_detected": [
+      "step_free"
+    ]
+  },
+  "quality": {
+    "overall_score": 50.8,
+    "lighting_score": 60.7,
+    "composition_score": 53.2,
+    "sharpness_score": 24.5,
+    "resolution_score": 15.6,
+    "trust_component": 10.9,
+    "recommendations": [
+      "Increase image sharpness/focus (+3 pts)"
+    ]
+  },
+  "processing_time_s": 1.38
+}

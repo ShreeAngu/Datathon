@@ -1,0 +1,48 @@
+{
+  "image_path": "D:\\Datathon\\property-ai-masterpiece\\dataset\\real\\clean_modern\\clean_modern_LK4rX2h4_ek.jpg",
+  "spatial": {
+    "room_type": "basement",
+    "room_type_confidence": 0.1034,
+    "style": "luxury contemporary",
+    "spaciousness_score": 44.9,
+    "clutter_score": 22.0,
+    "lighting_quality": 75.3,
+    "furniture_count": 6,
+    "object_count": 7
+  },
+  "authenticity": {
+    "trust_score": 42.0,
+    "is_ai_generated": true,
+    "detection_confidence": 0.16,
+    "exif_valid": false,
+    "lighting_consistent": false,
+    "noise_variance": 289.12,
+    "artifacts_detected": [
+      "no_exif",
+      "smooth_colour_gradient"
+    ],
+    "ground_truth_label": "real"
+  },
+  "accessibility": {
+    "accessibility_score": 70.0,
+    "has_grab_bar": false,
+    "has_stairs": false,
+    "estimated_door_width_cm": 15,
+    "is_wheelchair_accessible": false,
+    "features_detected": [
+      "step_free"
+    ]
+  },
+  "quality": {
+    "overall_score": 53.8,
+    "lighting_score": 75.3,
+    "composition_score": 63.9,
+    "sharpness_score": 28.9,
+    "resolution_score": 15.6,
+    "trust_component": 12.6,
+    "recommendations": [
+      "Increase image sharpness/focus (+3 pts)"
+    ]
+  },
+  "processing_time_s": 1.38
+}

@@ -1,0 +1,48 @@
+{
+  "image_path": "D:\\Datathon\\property-ai-masterpiece\\dataset\\real\\accessibility\\accessibility_qHG6XVObNvo.jpg",
+  "spatial": {
+    "room_type": "bathroom",
+    "room_type_confidence": 0.1066,
+    "style": "luxury contemporary",
+    "spaciousness_score": 60.4,
+    "clutter_score": 14.0,
+    "lighting_quality": 63.0,
+    "furniture_count": 1,
+    "object_count": 3
+  },
+  "authenticity": {
+    "trust_score": 25.9,
+    "is_ai_generated": true,
+    "detection_confidence": 0.482,
+    "exif_valid": false,
+    "lighting_consistent": false,
+    "noise_variance": 184.16,
+    "artifacts_detected": [
+      "no_exif",
+      "smooth_colour_gradient"
+    ],
+    "ground_truth_label": "real"
+  },
+  "accessibility": {
+    "accessibility_score": 70.0,
+    "has_grab_bar": false,
+    "has_stairs": false,
+    "estimated_door_width_cm": 12,
+    "is_wheelchair_accessible": false,
+    "features_detected": [
+      "step_free"
+    ]
+  },
+  "quality": {
+    "overall_score": 47.4,
+    "lighting_score": 63.0,
+    "composition_score": 55.1,
+    "sharpness_score": 18.6,
+    "resolution_score": 15.6,
+    "trust_component": 7.8,
+    "recommendations": [
+      "Increase image sharpness/focus (+3 pts)"
+    ]
+  },
+  "processing_time_s": 1.22
+}

@@ -1,0 +1,48 @@
+{
+  "image_path": "D:\\Datathon\\property-ai-masterpiece\\dataset\\real\\odd_angles\\odd_angles_BSplU6IRnfY.jpg",
+  "spatial": {
+    "room_type": "hallway",
+    "room_type_confidence": 0.1017,
+    "style": "industrial",
+    "spaciousness_score": 39.5,
+    "clutter_score": 2.0,
+    "lighting_quality": 67.9,
+    "furniture_count": 1,
+    "object_count": 1
+  },
+  "authenticity": {
+    "trust_score": 62.5,
+    "is_ai_generated": false,
+    "detection_confidence": 0.25,
+    "exif_valid": false,
+    "lighting_consistent": false,
+    "noise_variance": 556.86,
+    "artifacts_detected": [
+      "no_exif",
+      "smooth_colour_gradient"
+    ],
+    "ground_truth_label": "real"
+  },
+  "accessibility": {
+    "accessibility_score": 70.0,
+    "has_grab_bar": false,
+    "has_stairs": false,
+    "estimated_door_width_cm": 85,
+    "is_wheelchair_accessible": true,
+    "features_detected": [
+      "step_free"
+    ]
+  },
+  "quality": {
+    "overall_score": 62.4,
+    "lighting_score": 67.9,
+    "composition_score": 59.3,
+    "sharpness_score": 56.1,
+    "resolution_score": 15.6,
+    "trust_component": 18.8,
+    "recommendations": [
+      "Wider angle would improve spaciousness perception (+2 pts)"
+    ]
+  },
+  "processing_time_s": 1.39
+}

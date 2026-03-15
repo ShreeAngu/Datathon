@@ -1,0 +1,18 @@
+{
+  "filename": "mixed_diffusion_d8cc9b46.jpg",
+  "category": "clean_modern",
+  "type": "fake",
+  "source": "laion-art",
+  "generator_type": "mixed-diffusion",
+  "detection_difficulty": "hard",
+  "artifact_type": "subtle-noise",
+  "lighting_condition": "bright",
+  "clutter_level": "low",
+  "angle_type": "standard",
+  "accessibility_features": false,
+  "width": 500,
+  "height": 333,
+  "collected_at": "2026-03-14T14:18:36.080173",
+  "caption": "red rocks rwanda - campsite & guesthouse, nyakinama",
+  "aesthetic_score": 8.162798881530762
+}

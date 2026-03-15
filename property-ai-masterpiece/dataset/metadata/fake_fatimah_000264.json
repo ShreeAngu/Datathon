@@ -1,0 +1,8 @@
+{
+  "source": "FatimahEmadEldin/genai-manipulation-detection-interior",
+  "type": "fake",
+  "label": "fake",
+  "manipulation_category": "physical_impossibility",
+  "manipulation_technique": "reflection_inconsistency",
+  "pair_id": 264
+}
